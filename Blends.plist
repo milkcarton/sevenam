@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Espresso</key>
+	<array>
+		<string>Ristretto</string>
+		<string>Arpeggio</string>
+		<string>Roma</string>
+		<string>Livanto</string>
+		<string>Capriccio</string>
+		<string>Volluto</string>
+		<string>Cosi</string>
+	</array>
+	<key>Pure Origin</key>
+	<array>
+		<string>Indriya</string>
+		<string>Rosabaya</string>
+		<string>Dulsão</string>
+	</array>
+	<key>Lungo</key>
+	<array>
+		<string>Fortissio</string>
+		<string>Vivalto</string>
+		<string>Finezzo</string>
+	</array>
+	<key>Decaffeinato</key>
+	<array>
+		<string>Decaffeinato Intenso</string>
+		<string>Decaffeinato</string>
+		<string>Decaffeinato Lungo</string>
+	</array>
+</dict>
+</plist>
