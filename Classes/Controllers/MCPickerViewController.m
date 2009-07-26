@@ -10,15 +10,26 @@
 
 @implementation MCPickerViewController
 
+#pragma mark Overriden methods
+
 - (void)loadView {
 	[super loadView];
 	
 	pickerView = [[MCPickerView alloc] initWithFrame:[[UIScreen mainScreen] applicationFrame]];
+	pickerView.delegate = self;
 	[self setView:pickerView];
 }
 
-- (void)dealloc {
-    [super dealloc];
+#pragma mark Delegate methods for MCPickerView
+
+- (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
+	[self refresh];
+}
+
+#pragma mark Personal methods
+
+- (void)refresh {
+	[pickerView flipView];
 }
 
 @end

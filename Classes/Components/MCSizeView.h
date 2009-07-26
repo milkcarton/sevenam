@@ -8,8 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MCSizeView : UIView {
+enum {
+    MCSizeRistretto = 0,
+    MCSizeEspresso = 1,
+	MCSizeLungo = 2,
+	MCSizeCappuccino = 3
+};
 
+@interface MCSizeView : UIView {
+	NSMutableArray *sizeTypes;
 }
+
+- (void)resetTypes;
+- (void)addType:(int)type;
 
 @end

@@ -11,6 +11,15 @@
 
 @implementation MCAppDelegate
 
+#pragma mark Overridden methods
+
+- (void)dealloc {
+    [window release];
+    [super dealloc];
+}
+
+#pragma mark Delegate methods for UIApplicationDelegate
+
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
     window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 	
@@ -18,11 +27,6 @@
 	
     [window addSubview:pickerController.view];
     [window makeKeyAndVisible];
-}
-
-- (void)dealloc {
-    [window release];
-    [super dealloc];
 }
 
 @end

@@ -20,6 +20,9 @@
 		6038829A101B8BFD006A74CD /* MCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 60388299101B8BFD006A74CD /* MCAppDelegate.m */; };
 		603882B6101B8D6D006A74CD /* MCPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */; };
 		603882CC101B8DBF006A74CD /* MCPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */; };
+		608B9A70101CD1CD00F6F6CA /* MCNameView.m in Sources */ = {isa = PBXBuildFile; fileRef = 608B9A6F101CD1CD00F6F6CA /* MCNameView.m */; };
+		608B9AC8101CD68C00F6F6CA /* MCBlendView.m in Sources */ = {isa = PBXBuildFile; fileRef = 608B9AC7101CD68C00F6F6CA /* MCBlendView.m */; };
+		608B9C59101CE31200F6F6CA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 608B9C58101CE31200F6F6CA /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +46,11 @@
 		603882B5101B8D6D006A74CD /* MCPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCPickerView.m; path = Components/MCPickerView.m; sourceTree = "<group>"; };
 		603882CA101B8DBF006A74CD /* MCPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCPickerViewController.m; path = Controllers/MCPickerViewController.m; sourceTree = "<group>"; };
 		603882CB101B8DBF006A74CD /* MCPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCPickerViewController.h; path = Controllers/MCPickerViewController.h; sourceTree = "<group>"; };
+		608B9A6E101CD1CD00F6F6CA /* MCNameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCNameView.h; path = Components/MCNameView.h; sourceTree = "<group>"; };
+		608B9A6F101CD1CD00F6F6CA /* MCNameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCNameView.m; path = Components/MCNameView.m; sourceTree = "<group>"; };
+		608B9AC6101CD68C00F6F6CA /* MCBlendView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCBlendView.h; path = Components/MCBlendView.h; sourceTree = "<group>"; };
+		608B9AC7101CD68C00F6F6CA /* MCBlendView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCBlendView.m; path = Components/MCBlendView.m; sourceTree = "<group>"; };
+		608B9C58101CE31200F6F6CA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8D1107310486CEB800E47090 /* SevenAm-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SevenAm-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,6 +62,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				608B9C59101CE31200F6F6CA /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +121,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				608B9C58101CE31200F6F6CA /* QuartzCore.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
@@ -148,6 +158,10 @@
 				6028C40C101C98C3001C8A79 /* MCStrengthView.m */,
 				6028C4DC101C9D0B001C8A79 /* MCSizeView.h */,
 				6028C4DD101C9D0B001C8A79 /* MCSizeView.m */,
+				608B9A6E101CD1CD00F6F6CA /* MCNameView.h */,
+				608B9A6F101CD1CD00F6F6CA /* MCNameView.m */,
+				608B9AC6101CD68C00F6F6CA /* MCBlendView.h */,
+				608B9AC7101CD68C00F6F6CA /* MCBlendView.m */,
 			);
 			name = Components;
 			sourceTree = "<group>";
@@ -214,6 +228,8 @@
 				603882CC101B8DBF006A74CD /* MCPickerViewController.m in Sources */,
 				6028C40D101C98C3001C8A79 /* MCStrengthView.m in Sources */,
 				6028C4DE101C9D0B001C8A79 /* MCSizeView.m in Sources */,
+				608B9A70101CD1CD00F6F6CA /* MCNameView.m in Sources */,
+				608B9AC8101CD68C00F6F6CA /* MCBlendView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

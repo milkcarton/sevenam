@@ -10,6 +10,14 @@
 
 @implementation MCSizeView
 
+#pragma mark Overridden methods
+
+- (id)initWithFrame:(CGRect)rectangle {
+	self = [super initWithFrame:rectangle];
+	sizeTypes =[NSMutableArray array];
+	return self;
+}
+
 - (void)drawRect:(CGRect)rectangle {	
 	int size = 55;
 	int x = 20;
@@ -33,6 +41,16 @@
 	
 	UIImage *cappechinoImage = [UIImage imageNamed:@"cappuccino.png"];
 	[cappechinoImage drawInRect:CGRectMake(x, y, size, size)];
+}
+
+#pragma mark Personal methods
+
+- (void)resetTypes {
+	[sizeTypes removeAllObjects];
+}
+
+- (void)addType:(int)type {
+	[sizeTypes addObject:[NSNumber numberWithInt:type]];
 }
 
 @end

@@ -13,4 +13,6 @@
 	MCPickerView *pickerView;
 }
 
+- (void)refresh;
+
 @end

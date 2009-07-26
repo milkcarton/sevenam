@@ -8,8 +8,22 @@
 
 #import <UIKit/UIKit.h>
 
+#import "MCBlendView.h"
+#import "MCNameView.h"
+#import "MCSizeView.h"
+#import "MCStrengthView.h"
+
 @interface MCPickerView : UIView {
+	MCBlendView *blendView;
+	MCNameView *nameView;
+	MCSizeView *sizeView;
+	MCStrengthView *strengthView;
 	
+	id delegate;
 }
+
+@property (retain) id delegate;
+
+- (void)flipView;
 
 @end

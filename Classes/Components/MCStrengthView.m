@@ -14,6 +14,8 @@
 @synthesize circleColor;
 @synthesize lineColor;
 
+#pragma mark Overriden methods
+
 - (void)drawRect:(CGRect)rectangle {
 	CGContextRef context = UIGraphicsGetCurrentContext();
 	
