@@ -29,6 +29,9 @@
 #pragma mark Personal methods
 
 - (void)refresh {
+	
+	NSLog(@"random number: %d", (random() % 10) + 1);
+	
 	[pickerView flipView];
 }
 

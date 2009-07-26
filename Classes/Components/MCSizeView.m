@@ -14,7 +14,7 @@
 
 - (id)initWithFrame:(CGRect)rectangle {
 	self = [super initWithFrame:rectangle];
-	sizeTypes =[NSMutableArray array];
+	sizeTypes =[NSArray array];
 	return self;
 }
 
@@ -45,12 +45,8 @@
 
 #pragma mark Personal methods
 
-- (void)resetTypes {
-	[sizeTypes removeAllObjects];
-}
-
-- (void)addType:(int)type {
-	[sizeTypes addObject:[NSNumber numberWithInt:type]];
+- (void)replaceArrayWithArray:(NSArray *)array {
+	sizeTypes = [NSArray arrayWithArray:array];
 }
 
 @end

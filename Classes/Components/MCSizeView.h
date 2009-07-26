@@ -16,10 +16,9 @@ enum {
 };
 
 @interface MCSizeView : UIView {
-	NSMutableArray *sizeTypes;
+	NSArray *sizeTypes;
 }
 
-- (void)resetTypes;
-- (void)addType:(int)type;
+- (void)replaceArrayWithArray:(NSArray *)array;
 
 @end

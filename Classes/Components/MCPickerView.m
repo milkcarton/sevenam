@@ -11,6 +11,8 @@
 @implementation MCPickerView
 
 @synthesize delegate;
+@synthesize strength;
+@synthesize name;
 
 #pragma mark Overriden methods
 
@@ -26,9 +28,6 @@
 		[self addSubview:nameView];
 		
 		sizeView = [[MCSizeView alloc] initWithFrame:CGRectMake(0, 300, 320, 90)];
-		[sizeView resetTypes];
-		[sizeView addType:MCSizeRistretto];
-		[sizeView addType:MCSizeEspresso];
 		sizeView.backgroundColor = [UIColor redColor];
 		[self addSubview:sizeView];
 		
@@ -60,10 +59,21 @@
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationDuration:1.0];
 	
-	// Set changes
+	[blendView setName:@"roma"];
+	nameView.name = @"roma";
+	[sizeView replaceArrayWithArray:sizeTypes];
+	strengthView.strength = strength;
 	
 	[[self superview] exchangeSubviewAtIndex:0 withSubviewAtIndex:1];
 	[UIView commitAnimations];
+}
+
+- (void)resetTypes {
+	[sizeTypes removeAllObjects];
+}
+
+- (void)addType:(int)type {
+	[sizeTypes addObject:[NSNumber numberWithInt:type]];
 }
 
 @end

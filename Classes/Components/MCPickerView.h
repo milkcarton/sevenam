@@ -20,10 +20,18 @@
 	MCStrengthView *strengthView;
 	
 	id delegate;
+	
+	int strength;
+	NSMutableArray *sizeTypes;
+	NSString *name;
 }
 
 @property (retain) id delegate;
+@property (nonatomic) int strength;
+@property (retain, readwrite) NSString *name;
 
 - (void)flipView;
+- (void)resetTypes;
+- (void)addType:(int)type;
 
 @end
