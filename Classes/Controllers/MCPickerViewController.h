@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MCPickerView.h"
 
 @interface MCPickerViewController : UIViewController {
-
+	MCPickerView *pickerView;
 }
 
 @end

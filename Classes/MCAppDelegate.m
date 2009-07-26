@@ -11,8 +11,6 @@
 
 @implementation MCAppDelegate
 
-@synthesize window;
-
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
     window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 	
