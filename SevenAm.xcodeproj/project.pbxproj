@@ -11,6 +11,12 @@
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		6028C40D101C98C3001C8A79 /* MCStrengthView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */; };
+		6028C4DE101C9D0B001C8A79 /* MCSizeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6028C4DD101C9D0B001C8A79 /* MCSizeView.m */; };
+		6028C50C101C9E85001C8A79 /* lungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6028C50B101C9E85001C8A79 /* lungo.png */; };
+		6028C566101CA0B3001C8A79 /* espresso.png in Resources */ = {isa = PBXBuildFile; fileRef = 6028C565101CA0B3001C8A79 /* espresso.png */; };
+		6028C568101CA0E1001C8A79 /* ristretto.png in Resources */ = {isa = PBXBuildFile; fileRef = 6028C567101CA0E1001C8A79 /* ristretto.png */; };
+		6028C56A101CA114001C8A79 /* cappuccino.png in Resources */ = {isa = PBXBuildFile; fileRef = 6028C569101CA114001C8A79 /* cappuccino.png */; };
 		6038829A101B8BFD006A74CD /* MCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 60388299101B8BFD006A74CD /* MCAppDelegate.m */; };
 		603882B6101B8D6D006A74CD /* MCPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */; };
 		603882CC101B8DBF006A74CD /* MCPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */; };
@@ -23,6 +29,14 @@
 		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* SevenAm_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SevenAm_Prefix.pch; sourceTree = "<group>"; };
+		6028C40B101C98C3001C8A79 /* MCStrengthView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCStrengthView.h; path = Components/MCStrengthView.h; sourceTree = "<group>"; };
+		6028C40C101C98C3001C8A79 /* MCStrengthView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCStrengthView.m; path = Components/MCStrengthView.m; sourceTree = "<group>"; };
+		6028C4DC101C9D0B001C8A79 /* MCSizeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCSizeView.h; path = Components/MCSizeView.h; sourceTree = "<group>"; };
+		6028C4DD101C9D0B001C8A79 /* MCSizeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCSizeView.m; path = Components/MCSizeView.m; sourceTree = "<group>"; };
+		6028C50B101C9E85001C8A79 /* lungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lungo.png; path = Images/lungo.png; sourceTree = "<group>"; };
+		6028C565101CA0B3001C8A79 /* espresso.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = espresso.png; path = Images/espresso.png; sourceTree = "<group>"; };
+		6028C567101CA0E1001C8A79 /* ristretto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ristretto.png; path = Images/ristretto.png; sourceTree = "<group>"; };
+		6028C569101CA114001C8A79 /* cappuccino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cappuccino.png; path = Images/cappuccino.png; sourceTree = "<group>"; };
 		60388298101B8BFD006A74CD /* MCAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MCAppDelegate.h; sourceTree = "<group>"; };
 		60388299101B8BFD006A74CD /* MCAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MCAppDelegate.m; sourceTree = "<group>"; };
 		603882B4101B8D6D006A74CD /* MCPickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCPickerView.h; path = Components/MCPickerView.h; sourceTree = "<group>"; };
@@ -89,6 +103,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				6028C4F5101C9E5E001C8A79 /* Images */,
 				8D1107310486CEB800E47090 /* SevenAm-Info.plist */,
 			);
 			name = Resources;
@@ -102,6 +117,17 @@
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6028C4F5101C9E5E001C8A79 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				6028C569101CA114001C8A79 /* cappuccino.png */,
+				6028C567101CA0E1001C8A79 /* ristretto.png */,
+				6028C565101CA0B3001C8A79 /* espresso.png */,
+				6028C50B101C9E85001C8A79 /* lungo.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 		6038829B101B8C7A006A74CD /* Controllers */ = {
@@ -118,6 +144,10 @@
 			children = (
 				603882B4101B8D6D006A74CD /* MCPickerView.h */,
 				603882B5101B8D6D006A74CD /* MCPickerView.m */,
+				6028C40B101C98C3001C8A79 /* MCStrengthView.h */,
+				6028C40C101C98C3001C8A79 /* MCStrengthView.m */,
+				6028C4DC101C9D0B001C8A79 /* MCSizeView.h */,
+				6028C4DD101C9D0B001C8A79 /* MCSizeView.m */,
 			);
 			name = Components;
 			sourceTree = "<group>";
@@ -164,6 +194,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6028C50C101C9E85001C8A79 /* lungo.png in Resources */,
+				6028C566101CA0B3001C8A79 /* espresso.png in Resources */,
+				6028C568101CA0E1001C8A79 /* ristretto.png in Resources */,
+				6028C56A101CA114001C8A79 /* cappuccino.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,6 +212,8 @@
 				6038829A101B8BFD006A74CD /* MCAppDelegate.m in Sources */,
 				603882B6101B8D6D006A74CD /* MCPickerView.m in Sources */,
 				603882CC101B8DBF006A74CD /* MCPickerViewController.m in Sources */,
+				6028C40D101C98C3001C8A79 /* MCStrengthView.m in Sources */,
+				6028C4DE101C9D0B001C8A79 /* MCSizeView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

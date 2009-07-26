@@ -7,8 +7,34 @@
 //
 
 #import "MCPickerView.h"
+#import "MCSizeView.h"
+#import "MCStrengthView.h"
 
 @implementation MCPickerView
+
+- (id)initWithFrame:(CGRect)frame {	
+    if (self = [super initWithFrame:frame]) {
+		UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 210, 320, 90)];
+		label.backgroundColor = [UIColor redColor];
+		label.textColor = [UIColor whiteColor];
+		label.text = @"Roma";
+		label.textAlignment = UITextAlignmentCenter;
+		label.font = [UIFont italicSystemFontOfSize:40];
+		[self addSubview:label];
+		
+		MCSizeView *sizeView = [[MCSizeView alloc] initWithFrame:CGRectMake(0, 300, 320, 90)];
+		sizeView.backgroundColor = [UIColor redColor];
+		[self addSubview:sizeView];
+		
+		MCStrengthView *strengthView = [[MCStrengthView alloc] initWithFrame:CGRectMake(0, 390, 320, 90)];
+		strengthView.strength = 8;
+		strengthView.circleColor = [UIColor redColor];
+		strengthView.lineColor = [UIColor whiteColor];
+		strengthView.backgroundColor = [UIColor redColor];
+		[self addSubview:strengthView];
+	}
+	return self;
+}
 
 - (void)drawRect:(CGRect)rectangle {
 	CGContextRef context = UIGraphicsGetCurrentContext();
@@ -17,23 +43,6 @@
 	
 	[backgroundColor set];
 	CGContextFillRect(context, rectangle);
-	
-	int x = 20;
-	int size = 10;
-	for (int i = 0; i < 10; i++) {
-		[[UIColor whiteColor] set];
-		CGContextFillEllipseInRect(context, CGRectMake(x, 410, size, size));
-		[[UIColor redColor] set];
-		CGContextFillEllipseInRect(context, CGRectMake(x+2, 412, size-4, size-4));
-		[[UIColor whiteColor] set];
-		CGContextFillEllipseInRect(context, CGRectMake(x+4, 414, size-8, size-8));
-		x += 30;
-		size +=2;
-	}	
-}
-
-- (void)dealloc {
-	[super dealloc];	
 }
 
 @end
