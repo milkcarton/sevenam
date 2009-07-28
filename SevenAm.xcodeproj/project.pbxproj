@@ -31,13 +31,13 @@
 		60AA1BB6101F74D5002FEC6A /* decafeinato.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA2101F74D5002FEC6A /* decafeinato.png */; };
 		60AA1BB7101F74D5002FEC6A /* decaffeinatointenso.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA3101F74D5002FEC6A /* decaffeinatointenso.png */; };
 		60AA1BB8101F74D5002FEC6A /* decaffeinatolungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA4101F74D5002FEC6A /* decaffeinatolungo.png */; };
-		60AA1BB9101F74D5002FEC6A /* dulsaodobrasil.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA5101F74D5002FEC6A /* dulsaodobrasil.png */; };
+		60AA1BB9101F74D5002FEC6A /* dulsao.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA5101F74D5002FEC6A /* dulsao.png */; };
 		60AA1BBA101F74D5002FEC6A /* finezzolungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA6101F74D5002FEC6A /* finezzolungo.png */; };
 		60AA1BBB101F74D5002FEC6A /* fortissiolungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA7101F74D5002FEC6A /* fortissiolungo.png */; };
-		60AA1BBC101F74D5002FEC6A /* indriyafromindia.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA8101F74D5002FEC6A /* indriyafromindia.png */; };
+		60AA1BBC101F74D5002FEC6A /* indriya.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA8101F74D5002FEC6A /* indriya.png */; };
 		60AA1BBD101F74D5002FEC6A /* livanto.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA9101F74D5002FEC6A /* livanto.png */; };
 		60AA1BBE101F74D5002FEC6A /* roma.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BAA101F74D5002FEC6A /* roma.png */; };
-		60AA1BBF101F74D5002FEC6A /* rosabayadocolombia.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BAB101F74D5002FEC6A /* rosabayadocolombia.png */; };
+		60AA1BBF101F74D5002FEC6A /* rosabaya.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BAB101F74D5002FEC6A /* rosabaya.png */; };
 		60AA1BC0101F74D5002FEC6A /* vivaltolungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BAC101F74D5002FEC6A /* vivaltolungo.png */; };
 		60AA1BC1101F74D5002FEC6A /* volluto.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BAD101F74D5002FEC6A /* volluto.png */; };
 		60AA1C97101F84CD002FEC6A /* Blends.plist in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */; };
@@ -78,13 +78,13 @@
 		60AA1BA2101F74D5002FEC6A /* decafeinato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decafeinato.png; path = Images/decafeinato.png; sourceTree = "<group>"; };
 		60AA1BA3101F74D5002FEC6A /* decaffeinatointenso.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decaffeinatointenso.png; path = Images/decaffeinatointenso.png; sourceTree = "<group>"; };
 		60AA1BA4101F74D5002FEC6A /* decaffeinatolungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decaffeinatolungo.png; path = Images/decaffeinatolungo.png; sourceTree = "<group>"; };
-		60AA1BA5101F74D5002FEC6A /* dulsaodobrasil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dulsaodobrasil.png; path = Images/dulsaodobrasil.png; sourceTree = "<group>"; };
+		60AA1BA5101F74D5002FEC6A /* dulsao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dulsao.png; path = Images/dulsao.png; sourceTree = "<group>"; };
 		60AA1BA6101F74D5002FEC6A /* finezzolungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = finezzolungo.png; path = Images/finezzolungo.png; sourceTree = "<group>"; };
 		60AA1BA7101F74D5002FEC6A /* fortissiolungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fortissiolungo.png; path = Images/fortissiolungo.png; sourceTree = "<group>"; };
-		60AA1BA8101F74D5002FEC6A /* indriyafromindia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = indriyafromindia.png; path = Images/indriyafromindia.png; sourceTree = "<group>"; };
+		60AA1BA8101F74D5002FEC6A /* indriya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = indriya.png; path = Images/indriya.png; sourceTree = "<group>"; };
 		60AA1BA9101F74D5002FEC6A /* livanto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = livanto.png; path = Images/livanto.png; sourceTree = "<group>"; };
 		60AA1BAA101F74D5002FEC6A /* roma.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = roma.png; path = Images/roma.png; sourceTree = "<group>"; };
-		60AA1BAB101F74D5002FEC6A /* rosabayadocolombia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rosabayadocolombia.png; path = Images/rosabayadocolombia.png; sourceTree = "<group>"; };
+		60AA1BAB101F74D5002FEC6A /* rosabaya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rosabaya.png; path = Images/rosabaya.png; sourceTree = "<group>"; };
 		60AA1BAC101F74D5002FEC6A /* vivaltolungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = vivaltolungo.png; path = Images/vivaltolungo.png; sourceTree = "<group>"; };
 		60AA1BAD101F74D5002FEC6A /* volluto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = volluto.png; path = Images/volluto.png; sourceTree = "<group>"; };
 		60AA1C96101F84CD002FEC6A /* Blends.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Blends.plist; sourceTree = "<group>"; };
@@ -184,13 +184,13 @@
 				60AA1BA2101F74D5002FEC6A /* decafeinato.png */,
 				60AA1BA3101F74D5002FEC6A /* decaffeinatointenso.png */,
 				60AA1BA4101F74D5002FEC6A /* decaffeinatolungo.png */,
-				60AA1BA5101F74D5002FEC6A /* dulsaodobrasil.png */,
+				60AA1BA5101F74D5002FEC6A /* dulsao.png */,
 				60AA1BA6101F74D5002FEC6A /* finezzolungo.png */,
 				60AA1BA7101F74D5002FEC6A /* fortissiolungo.png */,
-				60AA1BA8101F74D5002FEC6A /* indriyafromindia.png */,
+				60AA1BA8101F74D5002FEC6A /* indriya.png */,
 				60AA1BA9101F74D5002FEC6A /* livanto.png */,
 				60AA1BAA101F74D5002FEC6A /* roma.png */,
-				60AA1BAB101F74D5002FEC6A /* rosabayadocolombia.png */,
+				60AA1BAB101F74D5002FEC6A /* rosabaya.png */,
 				60AA1BAC101F74D5002FEC6A /* vivaltolungo.png */,
 				60AA1BAD101F74D5002FEC6A /* volluto.png */,
 				6028C567101CA0E1001C8A79 /* ristretto.png */,
@@ -287,13 +287,13 @@
 				60AA1BB6101F74D5002FEC6A /* decafeinato.png in Resources */,
 				60AA1BB7101F74D5002FEC6A /* decaffeinatointenso.png in Resources */,
 				60AA1BB8101F74D5002FEC6A /* decaffeinatolungo.png in Resources */,
-				60AA1BB9101F74D5002FEC6A /* dulsaodobrasil.png in Resources */,
+				60AA1BB9101F74D5002FEC6A /* dulsao.png in Resources */,
 				60AA1BBA101F74D5002FEC6A /* finezzolungo.png in Resources */,
 				60AA1BBB101F74D5002FEC6A /* fortissiolungo.png in Resources */,
-				60AA1BBC101F74D5002FEC6A /* indriyafromindia.png in Resources */,
+				60AA1BBC101F74D5002FEC6A /* indriya.png in Resources */,
 				60AA1BBD101F74D5002FEC6A /* livanto.png in Resources */,
 				60AA1BBE101F74D5002FEC6A /* roma.png in Resources */,
-				60AA1BBF101F74D5002FEC6A /* rosabayadocolombia.png in Resources */,
+				60AA1BBF101F74D5002FEC6A /* rosabaya.png in Resources */,
 				60AA1BC0101F74D5002FEC6A /* vivaltolungo.png in Resources */,
 				60AA1BC1101F74D5002FEC6A /* volluto.png in Resources */,
 				60AA1C97101F84CD002FEC6A /* Blends.plist in Resources */,
