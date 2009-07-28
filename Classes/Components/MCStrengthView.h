@@ -9,13 +9,15 @@
 #import <UIKit/UIKit.h>
 
 @interface MCStrengthView : UIView {
-	int strength;
+	NSNumber *strength;
 	UIColor *circleColor;
 	UIColor *lineColor;
 }
 
-@property (nonatomic) int strength;
+@property (retain, readwrite) NSNumber *strength;
 @property (retain, readwrite) UIColor *circleColor;
 @property (retain, readwrite) UIColor *lineColor;
+
+- (void)setStrength:(NSNumber *)number;
 
 @end

@@ -3,12 +3,16 @@
 //  SevenAm
 //
 //  Created by Jelle Vandebeeck on 28/07/09.
-//  Copyright 2009 milkcarton. All rights reserved.
+//  Creative commons milkcarton 2009. Some rights reserved.
 //
 
 #import "MCBlend.h"
 
-
 @implementation MCBlend
+
+@synthesize name;
+@synthesize imageName;
+@synthesize strength;
+@synthesize types;
 
 @end

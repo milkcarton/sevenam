@@ -11,8 +11,7 @@
 @implementation MCPickerView
 
 @synthesize delegate;
-@synthesize strength;
-@synthesize name;
+@synthesize blend;
 
 #pragma mark Overriden methods
 
@@ -32,7 +31,7 @@
 		[self addSubview:sizeView];
 		
 		strengthView = [[MCStrengthView alloc] initWithFrame:CGRectMake(0, 390, 320, 90)];
-		strengthView.strength = 5;
+		strengthView.strength = [NSNumber numberWithInt:5];
 		strengthView.circleColor = [UIColor redColor];
 		strengthView.lineColor = [UIColor whiteColor];
 		strengthView.backgroundColor = [UIColor redColor];
@@ -59,21 +58,13 @@
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationDuration:1.0];
 	
-	[blendView setName:@"cosi"];
-	[nameView setName:@"roma"];
-	[sizeView replaceArrayWithArray:sizeTypes];
-	strengthView.strength = strength;
+	[blendView setName:blend.imageName];
+	[nameView setName:blend.name];
+	[sizeView replaceArrayWithArray:blend.types];
+	strengthView.strength = blend.strength;
 	
 	[[self superview] exchangeSubviewAtIndex:0 withSubviewAtIndex:1];
 	[UIView commitAnimations];
-}
-
-- (void)resetTypes {
-	[sizeTypes removeAllObjects];
-}
-
-- (void)addType:(int)type {
-	[sizeTypes addObject:[NSNumber numberWithInt:type]];
 }
 
 @end

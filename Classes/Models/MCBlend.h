@@ -3,14 +3,21 @@
 //  SevenAm
 //
 //  Created by Jelle Vandebeeck on 28/07/09.
-//  Copyright 2009 milkcarton. All rights reserved.
+//  Creative commons milkcarton 2009. Some rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-
+#import <UIKit/UIKit.h>
 
 @interface MCBlend : NSObject {
-
+	NSString *name;
+	NSString *imageName;
+	NSNumber *strength;
+	NSArray *types;
 }
+
+@property (retain, readwrite) NSString *name;
+@property (retain, readwrite) NSString *imageName;
+@property (retain, readwrite) NSNumber *strength;
+@property (retain, readwrite) NSArray *types;
 
 @end

@@ -7,7 +7,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Ristretto</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>ristretto</string>
 			<key>Strength</key>
 			<integer>10</integer>
@@ -21,7 +21,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Arpeggio</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>arpeggio</string>
 			<key>Strength</key>
 			<integer>9</integer>
@@ -35,7 +35,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Roma</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>roma</string>
 			<key>Strength</key>
 			<integer>8</integer>
@@ -48,7 +48,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Livanto</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>livanto</string>
 			<key>Strength</key>
 			<integer>6</integer>
@@ -60,7 +60,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Capriccio</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>capriccio</string>
 			<key>Strength</key>
 			<integer>5</integer>
@@ -72,7 +72,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Volluto</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>volluto</string>
 			<key>Strength</key>
 			<integer>4</integer>
@@ -84,7 +84,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Cosi</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>cosi</string>
 			<key>Strength</key>
 			<integer>3</integer>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Indriya</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>indriya</string>
 			<key>Strength</key>
 			<integer>10</integer>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Rosabaya</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>rosabaya</string>
 			<key>Strength</key>
 			<integer>6</integer>
@@ -125,7 +125,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Dulsão</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>dulsao</string>
 			<key>Strength</key>
 			<integer>5</integer>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Fortissio</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>fortissiolungo</string>
 			<key>Strength</key>
 			<integer>7</integer>
@@ -152,7 +152,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Vivalto</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>vivaltolungo</string>
 			<key>Strength</key>
 			<integer>4</integer>
@@ -164,7 +164,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Finezzo</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>finezzolungo</string>
 			<key>Strength</key>
 			<integer>3</integer>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Decaffeinato Intenso</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>decaffeinatointenso</string>
 			<key>Strength</key>
 			<integer>7</integer>
@@ -192,7 +192,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Decaffeinato</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>decaffeinato</string>
 			<key>Strength</key>
 			<integer>2</integer>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>Name</key>
 			<string>Decaffeinato Lungo</string>
-			<key>Images</key>
+			<key>Image</key>
 			<string>decaffeinatolungo</string>
 			<key>Strength</key>
 			<integer>3</integer>

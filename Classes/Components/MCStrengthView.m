@@ -30,7 +30,8 @@
 		[circleColor set];
 		CGContextFillEllipseInRect(context, CGRectMake(x+2, y+2-addedToY, size-4, size-4));
 		[lineColor set];
-		if (i < strength) {
+		NSLog(@"strengthComparater: %@ < %@", [NSNumber numberWithInt:i], strength);
+		if ([[NSNumber numberWithInt:i] compare:strength] == NSOrderedAscending) {
 			CGContextFillEllipseInRect(context, CGRectMake(x+4, y+4-addedToY, size-8, size-8));
 		}
 		x += addedToX;
@@ -38,6 +39,13 @@
 		addedToY += 1.9;
 		size +=3;
 	}	
+}
+
+#pragma mark Personal methods
+
+- (void)setStrength:(NSNumber *)number {
+	strength = number;
+	[self setNeedsDisplay];
 }
 
 @end

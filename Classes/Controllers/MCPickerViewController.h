@@ -11,7 +11,7 @@
 
 @interface MCPickerViewController : UIViewController {
 	MCPickerView *pickerView;
-	NSArray *blends;
+	NSMutableArray *blends;
 }
 
 - (void)refresh;

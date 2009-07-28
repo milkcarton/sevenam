@@ -12,6 +12,7 @@
 #import "MCNameView.h"
 #import "MCSizeView.h"
 #import "MCStrengthView.h"
+#import "MCBlend.h"
 
 @interface MCPickerView : UIView {
 	MCBlendView *blendView;
@@ -21,17 +22,12 @@
 	
 	id delegate;
 	
-	int strength;
-	NSMutableArray *sizeTypes;
-	NSString *name;
+	MCBlend *blend;
 }
 
 @property (retain) id delegate;
-@property (nonatomic) int strength;
-@property (retain, readwrite) NSString *name;
+@property (retain, readwrite) MCBlend *blend;
 
 - (void)flipView;
-- (void)resetTypes;
-- (void)addType:(int)type;
 
 @end
