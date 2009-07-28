@@ -18,23 +18,23 @@
 - (id)initWithFrame:(CGRect)frame {	
     if (self = [super initWithFrame:frame]) {
 		blendView = [[MCBlendView alloc] initWithFrame:CGRectMake(0, 0, 320, 210)];
-		blendView.backgroundColor = [UIColor redColor];
+		blendView.backgroundColor = [UIColor blackColor];
 		[self addSubview:blendView];
 		
 		nameView = [[MCNameView alloc] initWithFrame:CGRectMake(0, 210, 320, 90)];
-		nameView.backgroundColor = [UIColor redColor];
+		nameView.backgroundColor = [UIColor blackColor];
 		[nameView setName:@"espresso"];
 		[self addSubview:nameView];
 		
 		sizeView = [[MCSizeView alloc] initWithFrame:CGRectMake(0, 300, 320, 90)];
-		sizeView.backgroundColor = [UIColor redColor];
+		sizeView.backgroundColor = [UIColor blackColor];
 		[self addSubview:sizeView];
 		
 		strengthView = [[MCStrengthView alloc] initWithFrame:CGRectMake(0, 390, 320, 90)];
 		strengthView.strength = [NSNumber numberWithInt:5];
-		strengthView.circleColor = [UIColor redColor];
+		strengthView.circleColor = [UIColor blackColor];
 		strengthView.lineColor = [UIColor whiteColor];
-		strengthView.backgroundColor = [UIColor redColor];
+		strengthView.backgroundColor = [UIColor blackColor];
 		[self addSubview:strengthView];
 	}
 	return self;
@@ -43,7 +43,7 @@
 - (void)drawRect:(CGRect)rectangle {
 	CGContextRef context = UIGraphicsGetCurrentContext();
 	
-	UIColor *backgroundColor = [UIColor redColor];
+	UIColor *backgroundColor = [UIColor whiteColor];
 	
 	[backgroundColor set];
 	CGContextFillRect(context, rectangle);
