@@ -1252,6 +1252,119 @@
 			60AA1CA7101F8939002FEC6A /* PBXBookmark */ = 60AA1CA7101F8939002FEC6A /* PBXBookmark */;
 			60AA1CA8101F8939002FEC6A /* PBXBookmark */ = 60AA1CA8101F8939002FEC6A /* PBXBookmark */;
 			60AA1CA9101F8939002FEC6A /* PBXTextBookmark */ = 60AA1CA9101F8939002FEC6A /* PBXTextBookmark */;
+			60AA1CAF101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CAF101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB0101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB0101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB1101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB1101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB2101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB2101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB3101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB3101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB4101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB4101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB5101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB5101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB6101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB6101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB7101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB7101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB8101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB8101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CB9101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CB9101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CBA101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CBA101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CBB101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CBB101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CBC101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CBC101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CBD101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CBD101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CBE101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CBE101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CBF101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CBF101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC0101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC0101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC1101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC1101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC2101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC2101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC3101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC3101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC4101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC4101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC5101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC5101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC6101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC6101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CC7101F8A8E002FEC6A /* PBXTextBookmark */ = 60AA1CC7101F8A8E002FEC6A /* PBXTextBookmark */;
+			60AA1CDC101F8BB6002FEC6A /* PBXTextBookmark */ = 60AA1CDC101F8BB6002FEC6A /* PBXTextBookmark */;
+			60AA1CDD101F8BB6002FEC6A /* PBXTextBookmark */ = 60AA1CDD101F8BB6002FEC6A /* PBXTextBookmark */;
+			60AA1CDE101F8BB6002FEC6A /* PBXTextBookmark */ = 60AA1CDE101F8BB6002FEC6A /* PBXTextBookmark */;
+			60AA1CDF101F8BB6002FEC6A /* PBXTextBookmark */ = 60AA1CDF101F8BB6002FEC6A /* PBXTextBookmark */;
+			60AA1CE0101F8BB6002FEC6A /* PBXTextBookmark */ = 60AA1CE0101F8BB6002FEC6A /* PBXTextBookmark */;
+			60AA1CE6101F8C77002FEC6A /* PBXTextBookmark */ = 60AA1CE6101F8C77002FEC6A /* PBXTextBookmark */;
+			60AA1CE7101F8C77002FEC6A /* PlistBookmark */ = 60AA1CE7101F8C77002FEC6A /* PlistBookmark */;
+			60AA1CE8101F8C77002FEC6A /* PBXTextBookmark */ = 60AA1CE8101F8C77002FEC6A /* PBXTextBookmark */;
+			60AA1CE9101F8C77002FEC6A /* PBXTextBookmark */ = 60AA1CE9101F8C77002FEC6A /* PBXTextBookmark */;
+			60AA1CEA101F8C77002FEC6A /* PlistBookmark */ = 60AA1CEA101F8C77002FEC6A /* PlistBookmark */;
+			60AA1CEB101F8C77002FEC6A /* PBXTextBookmark */ = 60AA1CEB101F8C77002FEC6A /* PBXTextBookmark */;
+			60AA1CEC101F8C77002FEC6A /* PBXTextBookmark */ = 60AA1CEC101F8C77002FEC6A /* PBXTextBookmark */;
+			60AA1CED101F8C77002FEC6A /* PlistBookmark */ = 60AA1CED101F8C77002FEC6A /* PlistBookmark */;
+			60AA1CEE101F8C77002FEC6A /* PBXTextBookmark */ = 60AA1CEE101F8C77002FEC6A /* PBXTextBookmark */;
+			60AA1CF0101F8C90002FEC6A /* PBXTextBookmark */ = 60AA1CF0101F8C90002FEC6A /* PBXTextBookmark */;
+			60AA1CF2101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF2101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF3101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF3101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF4101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF4101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF5101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF5101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF6101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF6101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF7101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF7101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF8101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF8101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CF9101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CF9101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CFA101F8D9A002FEC6A /* PBXTextBookmark */ = 60AA1CFA101F8D9A002FEC6A /* PBXTextBookmark */;
+			60AA1CFE101F8DA6002FEC6A /* PBXTextBookmark */ = 60AA1CFE101F8DA6002FEC6A /* PBXTextBookmark */;
+			60AA1D00101F8DBF002FEC6A /* PBXTextBookmark */ = 60AA1D00101F8DBF002FEC6A /* PBXTextBookmark */;
+			60AA1D03101F8DF3002FEC6A /* PBXTextBookmark */ = 60AA1D03101F8DF3002FEC6A /* PBXTextBookmark */;
+			60AA1D06101F8E14002FEC6A /* PBXTextBookmark */ = 60AA1D06101F8E14002FEC6A /* PBXTextBookmark */;
+			60AA1D0A101F8E1F002FEC6A /* PBXTextBookmark */ = 60AA1D0A101F8E1F002FEC6A /* PBXTextBookmark */;
+			60AA1D0E101F8E48002FEC6A /* PBXTextBookmark */ = 60AA1D0E101F8E48002FEC6A /* PBXTextBookmark */;
+			60AA1D12101F8E4F002FEC6A /* PBXTextBookmark */ = 60AA1D12101F8E4F002FEC6A /* PBXTextBookmark */;
+			60AA1D19101F8EC7002FEC6A /* PBXTextBookmark */ = 60AA1D19101F8EC7002FEC6A /* PBXTextBookmark */;
+			60AA1D1B101F8ECB002FEC6A /* PBXTextBookmark */ = 60AA1D1B101F8ECB002FEC6A /* PBXTextBookmark */;
+			60AA1D1C101F8EE0002FEC6A /* PBXTextBookmark */ = 60AA1D1C101F8EE0002FEC6A /* PBXTextBookmark */;
+			60AA1D1E101F8EFC002FEC6A /* PBXTextBookmark */ = 60AA1D1E101F8EFC002FEC6A /* PBXTextBookmark */;
+			60AA1D22101F8F0E002FEC6A /* PBXTextBookmark */ = 60AA1D22101F8F0E002FEC6A /* PBXTextBookmark */;
+			60AA1D27101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D27101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D28101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D28101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D29101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D29101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D2A101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D2A101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D2B101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D2B101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D2C101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D2C101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D2D101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D2D101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D2E101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D2E101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D2F101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D2F101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D30101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D30101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D31101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D31101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D32101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D32101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D33101F8FB4002FEC6A /* PBXTextBookmark */ = 60AA1D33101F8FB4002FEC6A /* PBXTextBookmark */;
+			60AA1D3C101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D3C101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D3D101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D3D101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D3E101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D3E101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D3F101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D3F101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D40101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D40101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D41101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D41101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D42101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D42101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D43101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D43101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D44101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D44101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D45101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D45101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D46101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D46101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D47101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D47101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D48101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D48101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D49101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D49101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D4A101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D4A101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D4B101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D4B101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D4C101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D4C101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D4D101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D4D101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D4E101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D4E101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D4F101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D4F101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D50101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D50101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D51101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D51101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D52101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D52101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D53101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D53101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D54101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D54101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D55101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D55101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D56101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D56101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D57101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D57101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D58101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D58101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D59101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D59101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D5A101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D5A101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D5B101F906E002FEC6A /* PBXTextBookmark */ = 60AA1D5B101F906E002FEC6A /* PBXTextBookmark */;
+			60AA1D61101F90A1002FEC6A /* PBXTextBookmark */ = 60AA1D61101F90A1002FEC6A /* PBXTextBookmark */;
+			60AA1D62101F90A2002FEC6A /* PBXTextBookmark */ = 60AA1D62101F90A2002FEC6A /* PBXTextBookmark */;
+			60AA1D63101F90A2002FEC6A /* PBXTextBookmark */ = 60AA1D63101F90A2002FEC6A /* PBXTextBookmark */;
+			60AA1D64101F90A2002FEC6A /* PBXTextBookmark */ = 60AA1D64101F90A2002FEC6A /* PBXTextBookmark */;
+			60AA1D65101F90A2002FEC6A /* PBXTextBookmark */ = 60AA1D65101F90A2002FEC6A /* PBXTextBookmark */;
+			60AA1D66101F90A2002FEC6A /* PBXTextBookmark */ = 60AA1D66101F90A2002FEC6A /* PBXTextBookmark */;
+			60AA1D67101F90A2002FEC6A /* PBXTextBookmark */ = 60AA1D67101F90A2002FEC6A /* PBXTextBookmark */;
 			60F618FC101B8FE9008CD2D6 = 60F618FC101B8FE9008CD2D6 /* PBXTextBookmark */;
 			60F618FD101B8FE9008CD2D6 = 60F618FD101B8FE9008CD2D6 /* PBXTextBookmark */;
 			60F618FF101B8FE9008CD2D6 = 60F618FF101B8FE9008CD2D6 /* PBXTextBookmark */;
@@ -1280,15 +1393,15 @@
 	6028C40B101C98C3001C8A79 /* MCStrengthView.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
-			sepNavSelRange = "{272, 35}";
-			sepNavVisRange = "{0, 416}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 436}";
 		};
 	};
 	6028C40C101C98C3001C8A79 /* MCStrengthView.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1011, 616}}";
-			sepNavSelRange = "{309, 0}";
-			sepNavVisRange = "{0, 926}";
+			sepNavSelRange = "{773, 0}";
+			sepNavVisRange = "{3, 953}";
 		};
 	};
 	6028C423101C9957001C8A79 /* PBXTextBookmark */ = {
@@ -1296,7 +1409,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 32";
 		rLen = 0;
-		rLoc = 1421;
+		rLoc = 1425;
 		rType = 0;
 		vrLen = 978;
 		vrLoc = 0;
@@ -1306,7 +1419,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -1376,7 +1489,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -1386,7 +1499,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 15";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 429;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -1396,7 +1509,7 @@
 		fRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */;
 		name = "MCStrengthView.m: 15";
 		rLen = 0;
-		rLoc = 924;
+		rLoc = 949;
 		rType = 0;
 		vrLen = 230;
 		vrLoc = 0;
@@ -1406,7 +1519,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 38";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 943;
 		vrLoc = 0;
@@ -1426,7 +1539,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 15";
 		rLen = 0;
-		rLoc = 1305;
+		rLoc = 1309;
 		rType = 0;
 		vrLen = 418;
 		vrLoc = 0;
@@ -1446,7 +1559,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 15";
 		rLen = 0;
-		rLoc = 1305;
+		rLoc = 1309;
 		rType = 0;
 		vrLen = 418;
 		vrLoc = 0;
@@ -1466,7 +1579,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 15";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 429;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -1486,7 +1599,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 15";
 		rLen = 0;
-		rLoc = 306;
+		rLoc = 326;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -1506,7 +1619,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 15";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 429;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -1526,7 +1639,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 15";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 429;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -1546,7 +1659,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 16";
 		rLen = 1;
-		rLoc = 960;
+		rLoc = 939;
 		rType = 0;
 		vrLen = 1058;
 		vrLoc = 0;
@@ -1566,7 +1679,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 15";
 		rLen = 0;
-		rLoc = 893;
+		rLoc = 872;
 		rType = 0;
 		vrLen = 824;
 		vrLoc = 0;
@@ -1576,7 +1689,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -1586,7 +1699,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 16";
 		rLen = 0;
-		rLoc = 1158;
+		rLoc = 1162;
 		rType = 0;
 		vrLen = 683;
 		vrLoc = 0;
@@ -1606,7 +1719,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 25";
 		rLen = 112;
-		rLoc = 1308;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 683;
 		vrLoc = 0;
@@ -1626,7 +1739,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 15";
 		rLen = 0;
-		rLoc = 409;
+		rLoc = 429;
 		rType = 0;
 		vrLen = 290;
 		vrLoc = 0;
@@ -1646,7 +1759,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 12";
 		rLen = 0;
-		rLoc = 215;
+		rLoc = 221;
 		rType = 0;
 		vrLen = 270;
 		vrLoc = 0;
@@ -1666,7 +1779,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 12";
 		rLen = 0;
-		rLoc = 215;
+		rLoc = 221;
 		rType = 0;
 		vrLen = 274;
 		vrLoc = 0;
@@ -1686,7 +1799,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 12";
 		rLen = 0;
-		rLoc = 223;
+		rLoc = 229;
 		rType = 0;
 		vrLen = 270;
 		vrLoc = 0;
@@ -1703,7 +1816,7 @@
 	};
 	6028C4DC101C9D0B001C8A79 /* MCSizeView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 600}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
 			sepNavSelRange = "{373, 0}";
 			sepNavVisRange = "{0, 380}";
 		};
@@ -1720,7 +1833,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 17";
 		rLen = 0;
-		rLoc = 1006;
+		rLoc = 1010;
 		rType = 0;
 		vrLen = 712;
 		vrLoc = 0;
@@ -1840,7 +1953,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 18";
 		rLen = 0;
-		rLoc = 888;
+		rLoc = 867;
 		rType = 0;
 		vrLen = 857;
 		vrLoc = 0;
@@ -1859,7 +1972,7 @@
 		isa = PBXTextBookmark;
 		fRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */;
 		name = "MCStrengthView.m: 15";
-		rLen = 614;
+		rLen = 639;
 		rLoc = 311;
 		rType = 0;
 		vrLen = 899;
@@ -1915,7 +2028,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
 		rLen = 11;
-		rLoc = 347;
+		rLoc = 367;
 		rType = 0;
 		vrLen = 337;
 		vrLoc = 0;
@@ -1935,7 +2048,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 18";
 		rLen = 0;
-		rLoc = 822;
+		rLoc = 801;
 		rType = 0;
 		vrLen = 959;
 		vrLoc = 0;
@@ -1945,7 +2058,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -1955,7 +2068,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 18";
 		rLen = 0;
-		rLoc = 822;
+		rLoc = 801;
 		rType = 0;
 		vrLen = 959;
 		vrLoc = 0;
@@ -1965,7 +2078,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
 		rLen = 102;
-		rLoc = 308;
+		rLoc = 328;
 		rType = 0;
 		vrLen = 337;
 		vrLoc = 0;
@@ -2005,7 +2118,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
 		rLen = 0;
-		rLoc = 336;
+		rLoc = 356;
 		rType = 0;
 		vrLen = 345;
 		vrLoc = 0;
@@ -2015,7 +2128,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 23";
 		rLen = 0;
-		rLoc = 1105;
+		rLoc = 1109;
 		rType = 0;
 		vrLen = 1008;
 		vrLoc = 0;
@@ -2035,7 +2148,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -2055,7 +2168,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -2115,7 +2228,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -2125,7 +2238,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -2145,7 +2258,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 24";
 		rLen = 0;
-		rLoc = 1103;
+		rLoc = 1107;
 		rType = 0;
 		vrLen = 1057;
 		vrLoc = 0;
@@ -2165,7 +2278,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -2175,7 +2288,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -2185,7 +2298,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 24";
 		rLen = 0;
-		rLoc = 1103;
+		rLoc = 1107;
 		rType = 0;
 		vrLen = 1057;
 		vrLoc = 0;
@@ -2222,7 +2335,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 24";
 		rLen = 0;
-		rLoc = 1103;
+		rLoc = 1107;
 		rType = 0;
 		vrLen = 1057;
 		vrLoc = 0;
@@ -2242,7 +2355,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 23";
 		rLen = 0;
-		rLoc = 731;
+		rLoc = 710;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -2323,30 +2436,30 @@
 	};
 	603882B4101B8D6D006A74CD /* MCPickerView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 600}}";
-			sepNavSelRange = "{666, 0}";
-			sepNavVisRange = "{0, 673}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
+			sepNavSelRange = "{533, 0}";
+			sepNavVisRange = "{0, 567}";
 		};
 	};
 	603882B5101B8D6D006A74CD /* MCPickerView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 1120}}";
-			sepNavSelRange = "{690, 8}";
-			sepNavVisRange = "{1057, 1108}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 994}}";
+			sepNavSelRange = "{1931, 0}";
+			sepNavVisRange = "{714, 1334}";
 		};
 	};
 	603882CA101B8DBF006A74CD /* MCPickerViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 630}}";
-			sepNavSelRange = "{346, 0}";
-			sepNavVisRange = "{0, 852}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 910}}";
+			sepNavSelRange = "{1802, 0}";
+			sepNavVisRange = "{515, 1320}";
 		};
 	};
 	603882CB101B8DBF006A74CD /* MCPickerViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 600}}";
-			sepNavSelRange = "{307, 0}";
-			sepNavVisRange = "{0, 332}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
+			sepNavSelRange = "{289, 14}";
+			sepNavVisRange = "{0, 339}";
 		};
 	};
 	603882D1101B8DDA006A74CD /* PBXTextBookmark */ = {
@@ -2354,7 +2467,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 9";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 215;
 		vrLoc = 0;
@@ -2374,7 +2487,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 9";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 210;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -2394,7 +2507,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 23";
 		rLen = 0;
-		rLoc = 731;
+		rLoc = 710;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -2422,7 +2535,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 671;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 1306;
 		vrLoc = 0;
@@ -2432,7 +2545,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 860;
+		rLoc = 839;
 		rType = 0;
 		vrLen = 1306;
 		vrLoc = 0;
@@ -2452,7 +2565,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 671;
+		rLoc = 650;
 		rType = 0;
 		vrLen = 1306;
 		vrLoc = 0;
@@ -2598,7 +2711,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 26";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1297;
 		vrLoc = 0;
@@ -2608,7 +2721,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 860;
+		rLoc = 839;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2628,7 +2741,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 860;
+		rLoc = 839;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2638,7 +2751,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 860;
+		rLoc = 839;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2658,7 +2771,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 26";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1308;
 		vrLoc = 0;
@@ -2668,7 +2781,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 26";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2698,7 +2811,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 23";
 		rLen = 0;
-		rLoc = 731;
+		rLoc = 710;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2708,7 +2821,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 23";
 		rLen = 0;
-		rLoc = 731;
+		rLoc = 710;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2738,7 +2851,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 1006;
+		rLoc = 1010;
 		rType = 0;
 		vrLen = 1294;
 		vrLoc = 0;
@@ -2748,7 +2861,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 839;
+		rLoc = 818;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2768,7 +2881,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 839;
+		rLoc = 818;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -2808,7 +2921,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 9";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 210;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -2908,7 +3021,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 9";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 210;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -3078,7 +3191,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 17";
 		rLen = 0;
-		rLoc = 621;
+		rLoc = 600;
 		rType = 0;
 		vrLen = 1294;
 		vrLoc = 0;
@@ -3090,7 +3203,7 @@
 		rLen = 0;
 		rLoc = 310;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A52101CD05000F6F6CA /* PBXTextBookmark */ = {
@@ -3118,7 +3231,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 17";
 		rLen = 0;
-		rLoc = 621;
+		rLoc = 600;
 		rType = 0;
 		vrLen = 1294;
 		vrLoc = 0;
@@ -3160,7 +3273,7 @@
 		rLen = 0;
 		rLoc = 310;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A59101CD05000F6F6CA /* PBXTextBookmark */ = {
@@ -3198,7 +3311,7 @@
 		comments = "error: request for member 'sizeType' in something not a structure or union";
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		rLen = 0;
-		rLoc = 29;
+		rLoc = 28;
 		rType = 1;
 	};
 	608B9A60101CD0C000F6F6CA /* PBXTextBookmark */ = {
@@ -3216,7 +3329,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 26";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 505;
 		vrLoc = 503;
@@ -3228,7 +3341,7 @@
 		rLen = 0;
 		rLoc = 310;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A63101CD0CA00F6F6CA /* PBXTextBookmark */ = {
@@ -3258,7 +3371,7 @@
 		rLen = 0;
 		rLoc = 310;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A66101CD0CA00F6F6CA /* PBXTextBookmark */ = {
@@ -3286,7 +3399,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 17";
 		rLen = 0;
-		rLoc = 621;
+		rLoc = 600;
 		rType = 0;
 		vrLen = 1258;
 		vrLoc = 0;
@@ -3306,23 +3419,23 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 26";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1298;
 		vrLoc = 0;
 	};
 	608B9A6E101CD1CD00F6F6CA /* MCNameView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 600}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
 			sepNavSelRange = "{221, 0}";
 			sepNavVisRange = "{0, 264}";
 		};
 	};
 	608B9A6F101CD1CD00F6F6CA /* MCNameView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {900, 462}}";
+			sepNavIntBoundsRect = "{{0, 0}, {900, 392}}";
 			sepNavSelRange = "{194, 0}";
-			sepNavVisRange = "{80, 490}";
+			sepNavVisRange = "{80, 386}";
 		};
 	};
 	608B9A72101CD2C700F6F6CA /* PBXTextBookmark */ = {
@@ -3330,7 +3443,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -3362,7 +3475,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A76101CD2C700F6F6CA /* PBXTextBookmark */ = {
@@ -3390,7 +3503,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 18";
 		rLen = 0;
-		rLoc = 581;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3400,7 +3513,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1298;
 		vrLoc = 0;
@@ -3430,7 +3543,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -3450,7 +3563,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 16";
 		rLen = 0;
-		rLoc = 621;
+		rLoc = 600;
 		rType = 0;
 		vrLen = 1353;
 		vrLoc = 0;
@@ -3522,7 +3635,7 @@
 		rLen = 23;
 		rLoc = 144;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A86101CD2C700F6F6CA /* PBXTextBookmark */ = {
@@ -3552,7 +3665,7 @@
 		rLen = 23;
 		rLoc = 144;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A89101CD2C700F6F6CA /* PBXTextBookmark */ = {
@@ -3572,7 +3685,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A8B101CD2C700F6F6CA /* PBXTextBookmark */ = {
@@ -3600,7 +3713,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 18";
 		rLen = 0;
-		rLoc = 581;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3620,7 +3733,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 729;
+		rLoc = 708;
 		rType = 0;
 		vrLen = 1256;
 		vrLoc = 0;
@@ -3630,7 +3743,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 701;
+		rLoc = 680;
 		rType = 0;
 		vrLen = 1304;
 		vrLoc = 0;
@@ -3660,7 +3773,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 701;
+		rLoc = 680;
 		rType = 0;
 		vrLen = 1304;
 		vrLoc = 0;
@@ -3692,7 +3805,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9A99101CD47000F6F6CA /* PBXTextBookmark */ = {
@@ -3700,7 +3813,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -3720,7 +3833,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -3730,7 +3843,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 40";
 		rLen = 91;
-		rLoc = 1213;
+		rLoc = 1217;
 		rType = 0;
 		vrLen = 1336;
 		vrLoc = 37;
@@ -3802,7 +3915,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9AA4101CD47000F6F6CA /* PBXTextBookmark */ = {
@@ -3810,7 +3923,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -3820,7 +3933,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 690;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 1304;
 		vrLoc = 0;
@@ -3840,7 +3953,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 679;
+		rLoc = 658;
 		rType = 0;
 		vrLen = 1304;
 		vrLoc = 0;
@@ -3850,7 +3963,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 216;
 		vrLoc = 0;
@@ -3860,7 +3973,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 40";
 		rLen = 91;
-		rLoc = 1213;
+		rLoc = 1217;
 		rType = 0;
 		vrLen = 1336;
 		vrLoc = 37;
@@ -3920,7 +4033,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 112;
-		rLoc = 1308;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 1335;
 		vrLoc = 37;
@@ -3970,7 +4083,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 112;
-		rLoc = 1308;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 1335;
 		vrLoc = 37;
@@ -4047,14 +4160,14 @@
 	};
 	608B9AC6101CD68C00F6F6CA /* MCBlendView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 600}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
 			sepNavSelRange = "{228, 0}";
 			sepNavVisRange = "{0, 274}";
 		};
 	};
 	608B9AC7101CD68C00F6F6CA /* MCBlendView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 600}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
 			sepNavSelRange = "{483, 0}";
 			sepNavVisRange = "{0, 701}";
 		};
@@ -4104,7 +4217,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 112;
-		rLoc = 1308;
+		rLoc = 1312;
 		rType = 0;
 		vrLen = 1335;
 		vrLoc = 37;
@@ -4284,7 +4397,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 536;
+		rLoc = 515;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 37;
@@ -4294,7 +4407,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 18";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 37;
@@ -4304,7 +4417,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 37;
@@ -4314,7 +4427,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1420;
 		vrLoc = 37;
@@ -4334,7 +4447,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1420;
 		vrLoc = 37;
@@ -4384,7 +4497,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1420;
 		vrLoc = 37;
@@ -4434,7 +4547,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1420;
 		vrLoc = 37;
@@ -4534,7 +4647,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1416;
 		vrLoc = 37;
@@ -4544,7 +4657,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 37;
@@ -4564,7 +4677,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 37;
@@ -4604,7 +4717,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 510;
+		rLoc = 489;
 		rType = 0;
 		vrLen = 1416;
 		vrLoc = 37;
@@ -4624,7 +4737,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 26";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1568;
 		vrLoc = 37;
@@ -4634,7 +4747,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 25";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1542;
 		vrLoc = 37;
@@ -4644,7 +4757,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 28";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1578;
 		vrLoc = 37;
@@ -4654,7 +4767,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 25";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1583;
 		vrLoc = 37;
@@ -4664,7 +4777,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1418;
 		vrLoc = 37;
@@ -4674,7 +4787,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 25";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1523;
 		vrLoc = 37;
@@ -4684,7 +4797,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 538;
+		rLoc = 517;
 		rType = 0;
 		vrLen = 1416;
 		vrLoc = 37;
@@ -4694,7 +4807,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1401;
 		vrLoc = 171;
@@ -4714,7 +4827,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1401;
 		vrLoc = 171;
@@ -4734,7 +4847,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -4744,7 +4857,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 471;
 		vrLoc = 0;
@@ -4754,7 +4867,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 45";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1582;
 		vrLoc = 298;
@@ -4764,7 +4877,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 471;
 		vrLoc = 0;
@@ -4774,7 +4887,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 45";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1582;
 		vrLoc = 298;
@@ -4784,7 +4897,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 15";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 235;
 		vrLoc = 0;
@@ -4794,7 +4907,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 45";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1582;
 		vrLoc = 298;
@@ -4804,7 +4917,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 15";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 235;
 		vrLoc = 0;
@@ -4824,7 +4937,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 15";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 235;
 		vrLoc = 0;
@@ -4834,7 +4947,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 45";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1582;
 		vrLoc = 298;
@@ -4844,7 +4957,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 15";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 235;
 		vrLoc = 0;
@@ -4864,7 +4977,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -4874,7 +4987,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -4884,7 +4997,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -4894,7 +5007,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -4904,7 +5017,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 45";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1582;
 		vrLoc = 298;
@@ -4914,7 +5027,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -4924,7 +5037,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 48";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1565;
 		vrLoc = 268;
@@ -4934,7 +5047,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 57";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1403;
 		vrLoc = 752;
@@ -4954,7 +5067,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -4964,7 +5077,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1342;
 		vrLoc = 0;
@@ -4984,7 +5097,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1369;
 		vrLoc = 0;
@@ -4994,7 +5107,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1371;
 		vrLoc = 0;
@@ -5004,7 +5117,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1438;
 		vrLoc = 0;
@@ -5014,7 +5127,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1438;
 		vrLoc = 0;
@@ -5024,7 +5137,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1438;
 		vrLoc = 0;
@@ -5034,7 +5147,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1437;
 		vrLoc = 0;
@@ -5044,7 +5157,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 379;
+		rLoc = 358;
 		rType = 0;
 		vrLen = 1434;
 		vrLoc = 0;
@@ -5054,7 +5167,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1348;
 		vrLoc = 37;
@@ -5074,7 +5187,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1348;
 		vrLoc = 37;
@@ -5294,7 +5407,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 455;
+		rLoc = 434;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 37;
@@ -5304,7 +5417,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 455;
+		rLoc = 434;
 		rType = 0;
 		vrLen = 1349;
 		vrLoc = 37;
@@ -5324,7 +5437,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 455;
+		rLoc = 434;
 		rType = 0;
 		vrLen = 1349;
 		vrLoc = 37;
@@ -5344,7 +5457,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -5354,7 +5467,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 502;
+		rLoc = 481;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 37;
@@ -5384,7 +5497,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -5394,7 +5507,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 502;
+		rLoc = 481;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 37;
@@ -5424,7 +5537,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 657;
 		vrLoc = 336;
@@ -5444,7 +5557,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 502;
+		rLoc = 481;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 37;
@@ -5494,7 +5607,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 502;
+		rLoc = 481;
 		rType = 0;
 		vrLen = 1347;
 		vrLoc = 37;
@@ -5554,7 +5667,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 10";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -5594,7 +5707,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1375;
 		vrLoc = 171;
@@ -5604,7 +5717,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 258;
 		vrLoc = 0;
@@ -5614,7 +5727,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1373;
 		vrLoc = 171;
@@ -5624,7 +5737,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 258;
 		vrLoc = 0;
@@ -5644,7 +5757,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 10";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -5684,7 +5797,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 491;
+		rLoc = 470;
 		rType = 0;
 		vrLen = 1378;
 		vrLoc = 34;
@@ -5694,7 +5807,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 491;
+		rLoc = 470;
 		rType = 0;
 		vrLen = 1378;
 		vrLoc = 34;
@@ -5734,7 +5847,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1326;
 		vrLoc = 752;
@@ -5744,7 +5857,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 258;
 		vrLoc = 0;
@@ -5754,7 +5867,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 477;
+		rLoc = 456;
 		rType = 0;
 		vrLen = 1427;
 		vrLoc = 268;
@@ -5764,7 +5877,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 477;
+		rLoc = 456;
 		rType = 0;
 		vrLen = 1427;
 		vrLoc = 268;
@@ -5774,7 +5887,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -5784,7 +5897,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 477;
+		rLoc = 456;
 		rType = 0;
 		vrLen = 1427;
 		vrLoc = 268;
@@ -5794,7 +5907,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 258;
 		vrLoc = 0;
@@ -5804,7 +5917,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 21";
 		rLen = 0;
-		rLoc = 477;
+		rLoc = 456;
 		rType = 0;
 		vrLen = 1425;
 		vrLoc = 268;
@@ -5814,7 +5927,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 50";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1435;
 		vrLoc = 268;
@@ -5824,7 +5937,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1427;
 		vrLoc = 268;
@@ -5844,7 +5957,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -5864,7 +5977,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1475;
 		vrLoc = 268;
@@ -5874,7 +5987,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1475;
 		vrLoc = 268;
@@ -5894,7 +6007,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 493;
 		vrLoc = 0;
@@ -5914,7 +6027,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1192;
+		rLoc = 1196;
 		rType = 0;
 		vrLen = 1434;
 		vrLoc = 268;
@@ -5924,7 +6037,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 52";
 		rLen = 0;
-		rLoc = 1212;
+		rLoc = 1216;
 		rType = 0;
 		vrLen = 1486;
 		vrLoc = 268;
@@ -5934,7 +6047,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1359;
 		vrLoc = 268;
@@ -5954,7 +6067,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 20";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1359;
 		vrLoc = 268;
@@ -6044,7 +6157,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1320;
 		vrLoc = 146;
@@ -6074,7 +6187,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1320;
 		vrLoc = 146;
@@ -6084,7 +6197,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -6094,7 +6207,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -6104,7 +6217,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 282;
 		vrLoc = 0;
@@ -6114,7 +6227,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 146;
@@ -6124,7 +6237,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1340;
 		vrLoc = 146;
@@ -6154,7 +6267,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 46";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1340;
 		vrLoc = 146;
@@ -6334,7 +6447,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 549;
 		vrLoc = 382;
@@ -6564,7 +6677,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 549;
 		vrLoc = 382;
@@ -6604,7 +6717,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1410;
 		vrLoc = 146;
@@ -6614,7 +6727,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 263;
 		vrLoc = 0;
@@ -6664,7 +6777,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1410;
 		vrLoc = 146;
@@ -6674,7 +6787,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 263;
 		vrLoc = 0;
@@ -6694,7 +6807,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -6704,7 +6817,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -6716,7 +6829,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9CF2101CE9E600F6F6CA /* PBXTextBookmark */ = {
@@ -6734,7 +6847,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -6746,7 +6859,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9CF5101CE9E600F6F6CA /* PBXTextBookmark */ = {
@@ -6974,7 +7087,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -6984,7 +7097,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 457;
 		vrLoc = 0;
@@ -7014,7 +7127,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;
@@ -7024,7 +7137,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7034,7 +7147,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 457;
 		vrLoc = 0;
@@ -7044,7 +7157,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7054,7 +7167,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 457;
 		vrLoc = 0;
@@ -7064,7 +7177,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7074,7 +7187,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 21";
 		rLen = 91;
-		rLoc = 389;
+		rLoc = 1229;
 		rType = 0;
 		vrLen = 538;
 		vrLoc = 0;
@@ -7084,7 +7197,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7094,7 +7207,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 551;
 		vrLoc = 0;
@@ -7104,7 +7217,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 263;
 		vrLoc = 0;
@@ -7124,7 +7237,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1323;
 		vrLoc = 241;
@@ -7134,7 +7247,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 561;
 		vrLoc = 0;
@@ -7144,7 +7257,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7154,7 +7267,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 551;
 		vrLoc = 0;
@@ -7164,7 +7277,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1296;
 		vrLoc = 268;
@@ -7174,7 +7287,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 263;
 		vrLoc = 0;
@@ -7184,7 +7297,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1323;
 		vrLoc = 241;
@@ -7204,7 +7317,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 82";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 1347;
@@ -7214,7 +7327,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 549;
 		vrLoc = 382;
@@ -7224,7 +7337,7 @@
 		comments = "error: expected ':' before '}' token";
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		rLen = 0;
-		rLoc = 10;
+		rLoc = 11;
 		rType = 1;
 	};
 	608B9D40101CED6300F6F6CA /* PBXTextBookmark */ = {
@@ -7232,7 +7345,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 549;
 		vrLoc = 382;
@@ -7242,7 +7355,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 181;
 		vrLoc = 155;
@@ -7252,7 +7365,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 553;
 		vrLoc = 0;
@@ -7262,7 +7375,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7272,7 +7385,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 71";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 1345;
 		vrLoc = 0;
@@ -7282,7 +7395,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 71";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 1345;
 		vrLoc = 0;
@@ -7292,7 +7405,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 553;
 		vrLoc = 0;
@@ -7302,7 +7415,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7312,7 +7425,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 71";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 1345;
 		vrLoc = 0;
@@ -7332,7 +7445,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 286;
 		vrLoc = 0;
@@ -7342,7 +7455,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 23";
 		rLen = 0;
-		rLoc = 544;
+		rLoc = 523;
 		rType = 0;
 		vrLen = 1333;
 		vrLoc = 0;
@@ -7352,7 +7465,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 286;
 		vrLoc = 0;
@@ -7362,7 +7475,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 71";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 1335;
 		vrLoc = 298;
@@ -7372,7 +7485,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 286;
 		vrLoc = 0;
@@ -7392,7 +7505,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -7402,7 +7515,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7414,7 +7527,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9D5B101CEE1100F6F6CA /* PBXTextBookmark */ = {
@@ -7432,7 +7545,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 18";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -7442,7 +7555,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 50";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 1239;
@@ -7452,7 +7565,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -7464,7 +7577,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9D60101CEE1100F6F6CA /* PBXTextBookmark */ = {
@@ -7482,7 +7595,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 50";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 1239;
@@ -7492,7 +7605,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 18";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -7502,7 +7615,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 51";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 916;
 		vrLoc = 1239;
@@ -7512,7 +7625,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 50";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 1285;
 		vrLoc = 171;
@@ -7522,7 +7635,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7532,7 +7645,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 50";
 		rLen = 0;
-		rLoc = 2159;
+		rLoc = 2042;
 		rType = 0;
 		vrLen = 1285;
 		vrLoc = 171;
@@ -7542,7 +7655,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 19";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 413;
 		vrLoc = 0;
@@ -7552,7 +7665,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 896;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1360;
 		vrLoc = 145;
@@ -7562,7 +7675,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 544;
+		rLoc = 523;
 		rType = 0;
 		vrLen = 1388;
 		vrLoc = 145;
@@ -7572,7 +7685,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 13";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 359;
 		vrLoc = 0;
@@ -7582,7 +7695,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 24";
 		rLen = 0;
-		rLoc = 737;
+		rLoc = 716;
 		rType = 0;
 		vrLen = 1360;
 		vrLoc = 145;
@@ -7592,7 +7705,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 18";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 382;
 		vrLoc = 0;
@@ -7602,7 +7715,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 896;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1344;
 		vrLoc = 145;
@@ -7612,7 +7725,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 19";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 413;
 		vrLoc = 0;
@@ -7622,7 +7735,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 896;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1360;
 		vrLoc = 145;
@@ -7632,7 +7745,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 19";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 413;
 		vrLoc = 0;
@@ -7642,7 +7755,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 896;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1428;
 		vrLoc = 630;
@@ -7652,7 +7765,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7662,7 +7775,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 896;
+		rLoc = 875;
 		rType = 0;
 		vrLen = 1428;
 		vrLoc = 630;
@@ -7672,7 +7785,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7682,7 +7795,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7692,7 +7805,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 553;
 		vrLoc = 0;
@@ -7702,7 +7815,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1428;
 		vrLoc = 630;
@@ -7712,7 +7825,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1428;
 		vrLoc = 630;
@@ -7722,7 +7835,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7732,7 +7845,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1428;
 		vrLoc = 630;
@@ -7742,7 +7855,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -7752,7 +7865,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 553;
 		vrLoc = 0;
@@ -7762,7 +7875,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 49";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1471;
 		vrLoc = 630;
@@ -7772,7 +7885,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7782,7 +7895,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 9";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 214;
 		vrLoc = 0;
@@ -7792,7 +7905,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1358;
 		vrLoc = 0;
@@ -7802,7 +7915,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1358;
 		vrLoc = 0;
@@ -7812,7 +7925,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 9";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 214;
 		vrLoc = 0;
@@ -7822,7 +7935,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1358;
 		vrLoc = 0;
@@ -7832,7 +7945,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7842,7 +7955,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 407;
+		rLoc = 386;
 		rType = 0;
 		vrLen = 1358;
 		vrLoc = 0;
@@ -7872,7 +7985,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 407;
+		rLoc = 386;
 		rType = 0;
 		vrLen = 1358;
 		vrLoc = 0;
@@ -7942,7 +8055,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -7952,7 +8065,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1309;
 		vrLoc = 268;
@@ -7962,7 +8075,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 9";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 214;
 		vrLoc = 0;
@@ -8002,7 +8115,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 43";
 		rLen = 0;
-		rLoc = 1211;
+		rLoc = 1215;
 		rType = 0;
 		vrLen = 1309;
 		vrLoc = 268;
@@ -8012,7 +8125,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 9";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 214;
 		vrLoc = 0;
@@ -8042,7 +8155,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 183;
 		vrLoc = 155;
@@ -8062,7 +8175,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -8082,7 +8195,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -8092,7 +8205,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 553;
 		vrLoc = 0;
@@ -8112,7 +8225,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -8132,7 +8245,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 553;
 		vrLoc = 0;
@@ -8142,7 +8255,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -8152,7 +8265,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 555;
 		vrLoc = 0;
@@ -8162,7 +8275,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 24";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 470;
 		vrLoc = 0;
@@ -8212,7 +8325,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 24";
 		rLen = 0;
-		rLoc = 845;
+		rLoc = 1828;
 		rType = 0;
 		vrLen = 470;
 		vrLoc = 0;
@@ -8242,7 +8355,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 19";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 361;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -8252,7 +8365,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 12";
 		rLen = 0;
-		rLoc = 328;
+		rLoc = 348;
 		rType = 0;
 		vrLen = 316;
 		vrLoc = 0;
@@ -8292,7 +8405,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 75";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 947;
 		vrLoc = 1208;
@@ -8302,7 +8415,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 65";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1263;
 		vrLoc = 892;
@@ -8332,7 +8445,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 65";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1263;
 		vrLoc = 892;
@@ -8462,7 +8575,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 67";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1382;
 		vrLoc = 773;
@@ -8572,7 +8685,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 67";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1382;
 		vrLoc = 773;
@@ -8592,7 +8705,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 67";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1345;
 		vrLoc = 810;
@@ -8620,7 +8733,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 67";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1454;
 		vrLoc = 285;
@@ -8630,7 +8743,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 67";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1454;
 		vrLoc = 285;
@@ -8658,7 +8771,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 67";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1149;
 		vrLoc = 1006;
@@ -8668,7 +8781,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 185;
 		vrLoc = 155;
@@ -8678,7 +8791,7 @@
 		comments = "warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed";
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		rLen = 0;
-		rLoc = 26;
+		rLoc = 25;
 		rType = 1;
 	};
 	608B9E01101CF28400F6F6CA /* PBXTextBookmark */ = {
@@ -8686,7 +8799,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 15";
 		rLen = 1;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 185;
 		vrLoc = 155;
@@ -8696,7 +8809,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 1;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 230;
 		vrLoc = 269;
@@ -8706,7 +8819,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -8716,7 +8829,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 496;
 		vrLoc = 0;
@@ -8726,7 +8839,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 58";
 		rLen = 0;
-		rLoc = 1453;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 994;
 		vrLoc = 1161;
@@ -8736,7 +8849,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 16";
 		rLen = 0;
-		rLoc = 507;
+		rLoc = 486;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 0;
@@ -8746,7 +8859,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -8756,7 +8869,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 50";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1149;
 		vrLoc = 1006;
@@ -8766,7 +8879,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 481;
 		vrLoc = 0;
@@ -8776,7 +8889,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 56";
 		rLen = 0;
-		rLoc = 1453;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8786,7 +8899,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 481;
 		vrLoc = 0;
@@ -8796,7 +8909,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 58";
 		rLen = 0;
-		rLoc = 1453;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 1288;
 		vrLoc = 867;
@@ -8806,7 +8919,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 481;
 		vrLoc = 0;
@@ -8816,7 +8929,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 58";
 		rLen = 0;
-		rLoc = 1453;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 1288;
 		vrLoc = 867;
@@ -8826,7 +8939,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 27";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 499;
 		vrLoc = 0;
@@ -8836,7 +8949,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 58";
 		rLen = 0;
-		rLoc = 1453;
+		rLoc = 1457;
 		rType = 0;
 		vrLen = 994;
 		vrLoc = 1161;
@@ -8846,7 +8959,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 496;
 		vrLoc = 0;
@@ -8856,7 +8969,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8866,7 +8979,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 56";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8876,7 +8989,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 27";
 		rLen = 8;
-		rLoc = 610;
+		rLoc = 551;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -8886,7 +8999,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 509;
+		rLoc = 1349;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -8896,7 +9009,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -8906,7 +9019,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 62";
 		rLen = 0;
-		rLoc = 1471;
+		rLoc = 1475;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8916,7 +9029,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8926,7 +9039,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 14";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 478;
 		vrLoc = 0;
@@ -8936,7 +9049,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8946,7 +9059,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 27";
 		rLen = 8;
-		rLoc = 610;
+		rLoc = 551;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -8956,7 +9069,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 62";
 		rLen = 0;
-		rLoc = 1471;
+		rLoc = 1475;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -8966,7 +9079,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 27";
 		rLen = 8;
-		rLoc = 610;
+		rLoc = 551;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -8976,7 +9089,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -8986,7 +9099,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 509;
+		rLoc = 1349;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -8996,7 +9109,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -9006,7 +9119,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 509;
+		rLoc = 1349;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -9016,7 +9129,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -9026,7 +9139,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 57";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -9036,7 +9149,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 223;
 		vrLoc = 269;
@@ -9046,7 +9159,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 57";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -9056,7 +9169,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -9066,7 +9179,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1121;
 		vrLoc = 1034;
@@ -9076,7 +9189,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9086,7 +9199,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -9096,7 +9209,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1092;
 		vrLoc = 1063;
@@ -9106,7 +9219,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 26";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 573;
 		vrLoc = 0;
@@ -9116,7 +9229,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1121;
 		vrLoc = 1034;
@@ -9126,7 +9239,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9136,7 +9249,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -9146,7 +9259,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 493;
+		rLoc = 1333;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -9156,7 +9269,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 1;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 309;
 		vrLoc = 241;
@@ -9174,7 +9287,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 1;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 309;
 		vrLoc = 241;
@@ -9183,7 +9296,7 @@
 		isa = PBXTextBookmark;
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 13";
-		rLen = 45;
+		rLen = 52;
 		rLoc = 261;
 		rType = 0;
 		vrLen = 264;
@@ -9193,7 +9306,7 @@
 		isa = PBXTextBookmark;
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 13";
-		rLen = 45;
+		rLen = 52;
 		rLoc = 261;
 		rType = 0;
 		vrLen = 264;
@@ -9204,7 +9317,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 362;
 		vrLoc = 1362;
@@ -9214,14 +9327,14 @@
 		comments = "error: expected specifier-qualifier-list before 'MCPickerViewController'";
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		rLen = 0;
-		rLoc = 26;
+		rLoc = 25;
 		rType = 1;
 	};
 	608B9E48101CF3C700F6F6CA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 13";
-		rLen = 45;
+		rLen = 52;
 		rLoc = 261;
 		rType = 0;
 		vrLen = 264;
@@ -9232,7 +9345,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 362;
 		vrLoc = 1362;
@@ -9242,7 +9355,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 26";
 		rLen = 1;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 270;
 		vrLoc = 304;
@@ -9252,7 +9365,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9262,7 +9375,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 13";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -9272,7 +9385,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9282,7 +9395,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 946;
@@ -9292,7 +9405,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 493;
+		rLoc = 1333;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -9302,7 +9415,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9312,7 +9425,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1121;
 		vrLoc = 1034;
@@ -9322,7 +9435,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9332,7 +9445,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1267;
 		vrLoc = 0;
@@ -9342,7 +9455,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9352,7 +9465,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 946;
@@ -9362,7 +9475,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 23";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 574;
 		vrLoc = 0;
@@ -9372,7 +9485,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 493;
+		rLoc = 1333;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -9382,7 +9495,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 296;
 		vrLoc = 0;
@@ -9392,7 +9505,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 13";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 510;
 		vrLoc = 0;
@@ -9402,7 +9515,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9412,7 +9525,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 946;
@@ -9422,7 +9535,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 482;
 		vrLoc = 0;
@@ -9432,7 +9545,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 294;
@@ -9442,7 +9555,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9452,7 +9565,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 27";
 		rLen = 0;
-		rLoc = 504;
+		rLoc = 1344;
 		rType = 0;
 		vrLen = 595;
 		vrLoc = 0;
@@ -9462,7 +9575,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 54";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 946;
@@ -9472,7 +9585,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 14";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 287;
 		rType = 0;
 		vrLen = 497;
 		vrLoc = 0;
@@ -9482,7 +9595,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 52";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 946;
@@ -9492,7 +9605,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 20";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 433;
 		vrLoc = 0;
@@ -9502,7 +9615,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 52";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1209;
 		vrLoc = 946;
@@ -9512,7 +9625,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9522,7 +9635,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 230;
+		rLoc = 250;
 		rType = 0;
 		vrLen = 597;
 		vrLoc = 0;
@@ -9532,7 +9645,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9542,7 +9655,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 27";
 		rLen = 0;
-		rLoc = 504;
+		rLoc = 1344;
 		rType = 0;
 		vrLen = 595;
 		vrLoc = 0;
@@ -9552,7 +9665,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 52";
 		rLen = 0;
-		rLoc = 1422;
+		rLoc = 1426;
 		rType = 0;
 		vrLen = 1267;
 		vrLoc = 0;
@@ -9562,7 +9675,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 482;
 		vrLoc = 0;
@@ -9572,7 +9685,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1538;
 		vrLoc = 294;
@@ -9582,7 +9695,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9592,7 +9705,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 27";
 		rLen = 0;
-		rLoc = 504;
+		rLoc = 1344;
 		rType = 0;
 		vrLen = 595;
 		vrLoc = 0;
@@ -9622,7 +9735,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9632,7 +9745,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 27";
 		rLen = 0;
-		rLoc = 674;
+		rLoc = 1514;
 		rType = 0;
 		vrLen = 674;
 		vrLoc = 0;
@@ -9664,7 +9777,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9E86101CF4FE00F6F6CA /* PBXTextBookmark */ = {
@@ -9682,7 +9795,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -9702,7 +9815,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1492;
 		vrLoc = 340;
@@ -9712,7 +9825,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 27";
 		rLen = 0;
-		rLoc = 674;
+		rLoc = 1514;
 		rType = 0;
 		vrLen = 674;
 		vrLoc = 0;
@@ -9752,7 +9865,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9762,7 +9875,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 27";
 		rLen = 0;
-		rLoc = 674;
+		rLoc = 1514;
 		rType = 0;
 		vrLen = 674;
 		vrLoc = 0;
@@ -9804,7 +9917,7 @@
 		rLen = 0;
 		rLoc = 167;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9E94101CF4FE00F6F6CA /* PBXTextBookmark */ = {
@@ -9822,7 +9935,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -9842,7 +9955,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1266;
 		vrLoc = 0;
@@ -9862,7 +9975,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1262;
 		vrLoc = 3;
@@ -9872,7 +9985,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -9892,7 +10005,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9902,7 +10015,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1266;
 		vrLoc = 0;
@@ -9922,7 +10035,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1262;
 		vrLoc = 3;
@@ -9932,7 +10045,7 @@
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 19";
 		rLen = 0;
-		rLoc = 408;
+		rLoc = 428;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -9952,7 +10065,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -9962,7 +10075,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 34";
 		rLen = 0;
-		rLoc = 776;
+		rLoc = 1646;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -9972,7 +10085,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 34";
 		rLen = 0;
-		rLoc = 757;
+		rLoc = 1639;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -9982,7 +10095,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 33";
 		rLen = 0;
-		rLoc = 726;
+		rLoc = 1609;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -9992,7 +10105,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 32";
 		rLen = 0;
-		rLoc = 726;
+		rLoc = 1609;
 		rType = 0;
 		vrLen = 723;
 		vrLoc = 0;
@@ -10002,7 +10115,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 33";
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 1645;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10012,7 +10125,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 33";
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 1645;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10031,8 +10144,8 @@
 		isa = PBXTextBookmark;
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
-		rLen = 35;
-		rLoc = 272;
+		rLen = 49;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -10072,7 +10185,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 31";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -10082,7 +10195,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 33";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1404;
 		vrLoc = 265;
@@ -10094,7 +10207,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9EBF101CF7E800F6F6CA /* PBXTextBookmark */ = {
@@ -10102,7 +10215,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 33";
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 1645;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10112,7 +10225,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1263;
 		vrLoc = 0;
@@ -10122,7 +10235,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 24";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 486;
 		vrLoc = 0;
@@ -10141,8 +10254,8 @@
 		isa = PBXTextBookmark;
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
-		rLen = 35;
-		rLoc = 272;
+		rLen = 49;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -10152,7 +10265,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1919;
+		rLoc = 1942;
 		rType = 0;
 		vrLen = 1190;
 		vrLoc = 765;
@@ -10162,7 +10275,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 28";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 535;
 		vrLoc = 0;
@@ -10174,7 +10287,7 @@
 		rLen = 19;
 		rLoc = 303;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9EC7101CF7E800F6F6CA /* PBXTextBookmark */ = {
@@ -10182,7 +10295,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 25";
 		rLen = 0;
-		rLoc = 483;
+		rLoc = 460;
 		rType = 0;
 		vrLen = 563;
 		vrLoc = 0;
@@ -10191,8 +10304,8 @@
 		isa = PBXTextBookmark;
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
-		rLen = 35;
-		rLoc = 272;
+		rLen = 49;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -10204,7 +10317,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9ECA101CF7E800F6F6CA /* PBXTextBookmark */ = {
@@ -10222,7 +10335,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 33";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 610;
 		vrLoc = 0;
@@ -10242,7 +10355,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 75";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1034;
 		vrLoc = 1061;
@@ -10262,7 +10375,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 75";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1063;
 		vrLoc = 1032;
@@ -10272,7 +10385,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 31";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -10292,7 +10405,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 75";
 		rLen = 0;
-		rLoc = 2158;
+		rLoc = 2041;
 		rType = 0;
 		vrLen = 1063;
 		vrLoc = 1032;
@@ -10302,7 +10415,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 31";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -10312,7 +10425,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 33";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1404;
 		vrLoc = 265;
@@ -10324,7 +10437,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 386;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9ED9101CF86600F6F6CA /* PBXTextBookmark */ = {
@@ -10334,7 +10447,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9EDA101CF86600F6F6CA /* PBXTextBookmark */ = {
@@ -10352,7 +10465,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 33";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1357;
 		vrLoc = 265;
@@ -10364,7 +10477,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9EDD101CF86600F6F6CA /* PBXTextBookmark */ = {
@@ -10382,7 +10495,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1884;
+		rLoc = 1901;
 		rType = 0;
 		vrLen = 1277;
 		vrLoc = 0;
@@ -10392,7 +10505,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 27";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 266;
 		vrLoc = 218;
@@ -10410,7 +10523,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 27";
 		rLen = 0;
-		rLoc = 485;
+		rLoc = 462;
 		rType = 0;
 		vrLen = 266;
 		vrLoc = 218;
@@ -10430,7 +10543,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1884;
+		rLoc = 1901;
 		rType = 0;
 		vrLen = 1277;
 		vrLoc = 0;
@@ -10440,7 +10553,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1884;
+		rLoc = 1901;
 		rType = 0;
 		vrLen = 1277;
 		vrLoc = 0;
@@ -10460,7 +10573,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 31";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -10482,7 +10595,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9EEF101CF8AC00F6F6CA /* PBXTextBookmark */ = {
@@ -10500,7 +10613,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1884;
+		rLoc = 1901;
 		rType = 0;
 		vrLen = 1277;
 		vrLoc = 0;
@@ -10520,7 +10633,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 31";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -10552,7 +10665,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9EF6101CF8AC00F6F6CA /* PBXTextBookmark */ = {
@@ -10570,7 +10683,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1810;
+		rLoc = 1822;
 		rType = 0;
 		vrLen = 1194;
 		vrLoc = 959;
@@ -10590,7 +10703,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1454;
+		rLoc = 1458;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 1224;
@@ -10600,7 +10713,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1454;
+		rLoc = 1458;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 1224;
@@ -10620,7 +10733,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 55";
 		rLen = 0;
-		rLoc = 1454;
+		rLoc = 1458;
 		rType = 0;
 		vrLen = 984;
 		vrLoc = 1171;
@@ -10630,7 +10743,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 56";
 		rLen = 0;
-		rLoc = 1468;
+		rLoc = 1472;
 		rType = 0;
 		vrLen = 984;
 		vrLoc = 1171;
@@ -10650,7 +10763,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -10660,7 +10773,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 56";
 		rLen = 0;
-		rLoc = 1468;
+		rLoc = 1472;
 		rType = 0;
 		vrLen = 984;
 		vrLoc = 1171;
@@ -10680,7 +10793,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -10690,7 +10803,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 33";
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 1645;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10700,7 +10813,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 30";
 		rLen = 0;
-		rLoc = 706;
+		rLoc = 1546;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10720,7 +10833,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10730,7 +10843,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10740,7 +10853,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 56";
 		rLen = 0;
-		rLoc = 1468;
+		rLoc = 1472;
 		rType = 0;
 		vrLen = 984;
 		vrLoc = 1171;
@@ -10750,7 +10863,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10760,7 +10873,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1268;
 		vrLoc = 146;
@@ -10772,7 +10885,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F27101CF95A00F6F6CA /* PBXTextBookmark */ = {
@@ -10790,7 +10903,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 1224;
@@ -10800,7 +10913,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1300;
 		vrLoc = 146;
@@ -10812,7 +10925,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F2B101CF95A00F6F6CA /* PBXTextBookmark */ = {
@@ -10830,7 +10943,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 1224;
@@ -10840,7 +10953,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 31";
 		rLen = 0;
-		rLoc = 600;
+		rLoc = 541;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -10870,7 +10983,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -10880,7 +10993,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10900,7 +11013,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10910,7 +11023,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -10920,7 +11033,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10930,7 +11043,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10940,7 +11053,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -10970,7 +11083,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 926;
@@ -10980,7 +11093,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -10990,7 +11103,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 31";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1198;
 		vrLoc = 926;
@@ -11010,7 +11123,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11020,7 +11133,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -11040,7 +11153,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11070,7 +11183,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 30";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1245;
 		vrLoc = 171;
@@ -11102,7 +11215,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F5D101CFA3B00F6F6CA /* PBXTextBookmark */ = {
@@ -11120,7 +11233,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11130,7 +11243,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -11140,7 +11253,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 30";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1245;
 		vrLoc = 171;
@@ -11150,7 +11263,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 30";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1245;
 		vrLoc = 171;
@@ -11172,7 +11285,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F64101CFA3B00F6F6CA /* PBXTextBookmark */ = {
@@ -11190,7 +11303,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -11200,7 +11313,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11210,7 +11323,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -11220,7 +11333,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 30";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 1099;
@@ -11232,7 +11345,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F70101CFA9900F6F6CA /* PBXTextBookmark */ = {
@@ -11260,7 +11373,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1855;
 		rType = 0;
 		vrLen = 1136;
 		vrLoc = 1001;
@@ -11270,7 +11383,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 30";
 		rLen = 0;
-		rLoc = 811;
+		rLoc = 790;
 		rType = 0;
 		vrLen = 1044;
 		vrLoc = 1099;
@@ -11302,7 +11415,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F77101CFA9900F6F6CA /* PBXTextBookmark */ = {
@@ -11320,7 +11433,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1840;
+		rLoc = 1855;
 		rType = 0;
 		vrLen = 1136;
 		vrLoc = 1001;
@@ -11340,7 +11453,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -11350,7 +11463,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -11360,7 +11473,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 66";
 		rLen = 0;
-		rLoc = 1908;
+		rLoc = 1925;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -11370,7 +11483,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1088;
 		vrLoc = 1050;
@@ -11392,7 +11505,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F87101CFAD500F6F6CA /* PBXTextBookmark */ = {
@@ -11400,7 +11513,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1088;
 		vrLoc = 1050;
@@ -11422,7 +11535,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F8A101CFAD500F6F6CA /* PBXTextBookmark */ = {
@@ -11442,7 +11555,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F8C101CFAD500F6F6CA /* PBXTextBookmark */ = {
@@ -11462,7 +11575,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F92101CFAF400F6F6CA /* PBXTextBookmark */ = {
@@ -11472,7 +11585,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F93101CFAF400F6F6CA /* PBXTextBookmark */ = {
@@ -11500,7 +11613,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11510,7 +11623,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -11520,7 +11633,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1136;
 		vrLoc = 1001;
@@ -11532,7 +11645,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9F99101CFAF400F6F6CA /* PBXTextBookmark */ = {
@@ -11540,7 +11653,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1137;
 		vrLoc = 1001;
@@ -11560,7 +11673,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1136;
 		vrLoc = 1001;
@@ -11580,7 +11693,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11590,7 +11703,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -11600,7 +11713,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -11620,7 +11733,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 65";
 		rLen = 0;
-		rLoc = 1851;
+		rLoc = 1866;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -11650,7 +11763,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 65";
 		rLen = 0;
-		rLoc = 1851;
+		rLoc = 1866;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -11682,7 +11795,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9FAA101CFB8B00F6F6CA /* PBXTextBookmark */ = {
@@ -11692,7 +11805,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9FAB101CFB8B00F6F6CA /* PBXTextBookmark */ = {
@@ -11700,7 +11813,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1876;
+		rLoc = 1894;
 		rType = 0;
 		vrLen = 1093;
 		vrLoc = 1050;
@@ -11722,7 +11835,7 @@
 		rLen = 0;
 		rLoc = 373;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9FAE101CFB8B00F6F6CA /* PBXTextBookmark */ = {
@@ -11730,7 +11843,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1876;
+		rLoc = 1894;
 		rType = 0;
 		vrLen = 1093;
 		vrLoc = 1050;
@@ -11750,7 +11863,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 35";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -11780,7 +11893,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1876;
+		rLoc = 1894;
 		rType = 0;
 		vrLen = 1093;
 		vrLoc = 1050;
@@ -11790,7 +11903,7 @@
 		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
 		name = "MCPickerView.h: 35";
 		rLen = 0;
-		rLoc = 666;
+		rLoc = 560;
 		rType = 0;
 		vrLen = 673;
 		vrLoc = 0;
@@ -11812,7 +11925,7 @@
 		rLen = 9;
 		rLoc = 312;
 		rType = 0;
-		vrLen = 382;
+		vrLen = 380;
 		vrLoc = 0;
 	};
 	608B9FBC101CFC0E00F6F6CA /* PBXTextBookmark */ = {
@@ -11860,7 +11973,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 64";
 		rLen = 0;
-		rLoc = 1883;
+		rLoc = 1900;
 		rType = 0;
 		vrLen = 1175;
 		vrLoc = 972;
@@ -11872,7 +11985,7 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 1;
+		breakpointsEnabled = 0;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -11937,7 +12050,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -11947,7 +12060,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -12007,7 +12120,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 62";
 		rLen = 0;
-		rLoc = 1807;
+		rLoc = 1805;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -12017,7 +12130,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1821;
+		rLoc = 1833;
 		rType = 0;
 		vrLen = 1262;
 		vrLoc = 887;
@@ -12047,7 +12160,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 62";
 		rLen = 0;
-		rLoc = 1807;
+		rLoc = 1805;
 		rType = 0;
 		vrLen = 1177;
 		vrLoc = 972;
@@ -12107,7 +12220,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 62";
 		rLen = 0;
-		rLoc = 1807;
+		rLoc = 1805;
 		rType = 0;
 		vrLen = 1056;
 		vrLoc = 1099;
@@ -12117,7 +12230,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -12127,7 +12240,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 382;
+		rLoc = 1222;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -12167,7 +12280,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 62";
 		rLen = 0;
-		rLoc = 1807;
+		rLoc = 1805;
 		rType = 0;
 		vrLen = 1105;
 		vrLoc = 1050;
@@ -12227,7 +12340,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1838;
+		rLoc = 1853;
 		rType = 0;
 		vrLen = 1178;
 		vrLoc = 972;
@@ -12237,7 +12350,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1180;
 		vrLoc = 972;
@@ -12267,7 +12380,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1180;
 		vrLoc = 972;
@@ -12317,7 +12430,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1006;
 		vrLoc = 1152;
@@ -12327,7 +12440,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 305;
+		rLoc = 312;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -12337,7 +12450,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 35";
 		rLen = 0;
-		rLoc = 843;
+		rLoc = 1826;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -12357,7 +12470,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1006;
 		vrLoc = 1152;
@@ -12367,7 +12480,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 16";
 		rLen = 0;
-		rLoc = 325;
+		rLoc = 332;
 		rType = 0;
 		vrLen = 314;
 		vrLoc = 0;
@@ -12377,7 +12490,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 35";
 		rLen = 0;
-		rLoc = 843;
+		rLoc = 1826;
 		rType = 0;
 		vrLen = 729;
 		vrLoc = 0;
@@ -12387,7 +12500,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 14";
 		rLen = 0;
-		rLoc = 305;
+		rLoc = 312;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -12397,7 +12510,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 387;
+		rLoc = 1227;
 		rType = 0;
 		vrLen = 733;
 		vrLoc = 0;
@@ -12407,7 +12520,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 37";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 797;
 		vrLoc = 0;
@@ -12427,7 +12540,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 37";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 797;
 		vrLoc = 0;
@@ -12437,7 +12550,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 17";
 		rLen = 0;
-		rLoc = 262;
+		rLoc = 282;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 0;
@@ -12447,7 +12560,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
@@ -12457,7 +12570,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 11";
 		rLen = 0;
-		rLoc = 203;
+		rLoc = 223;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 0;
@@ -12467,7 +12580,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 11";
 		rLen = 0;
-		rLoc = 203;
+		rLoc = 223;
 		rType = 0;
 		vrLen = 815;
 		vrLoc = 0;
@@ -12477,7 +12590,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
@@ -12487,7 +12600,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 13";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 251;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 0;
@@ -12497,7 +12610,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
@@ -12507,7 +12620,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 13";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 251;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 0;
@@ -12517,7 +12630,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 13";
 		rLen = 0;
-		rLoc = 231;
+		rLoc = 251;
 		rType = 0;
 		vrLen = 796;
 		vrLoc = 0;
@@ -12527,7 +12640,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
@@ -12537,7 +12650,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 155;
@@ -12547,7 +12660,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 155;
@@ -12557,7 +12670,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 382;
 		vrLoc = 0;
@@ -12567,7 +12680,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 152;
@@ -12577,7 +12690,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 714;
 		vrLoc = 155;
@@ -12587,7 +12700,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 382;
 		vrLoc = 0;
@@ -12597,7 +12710,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 817;
+		rLoc = 1773;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 152;
@@ -12607,7 +12720,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 382;
 		vrLoc = 0;
@@ -12617,7 +12730,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 92;
@@ -12627,7 +12740,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 43";
 		rLen = 0;
-		rLoc = 802;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 756;
 		vrLoc = 92;
@@ -12637,7 +12750,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 15";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -12647,7 +12760,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 26";
 		rLen = 0;
-		rLoc = 588;
+		rLoc = 1428;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 0;
@@ -12657,7 +12770,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 23";
 		rLen = 0;
-		rLoc = 387;
+		rLoc = 1227;
 		rType = 0;
 		vrLen = 757;
 		vrLoc = 92;
@@ -12667,7 +12780,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
@@ -12677,7 +12790,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 26";
 		rLen = 0;
-		rLoc = 588;
+		rLoc = 1428;
 		rType = 0;
 		vrLen = 795;
 		vrLoc = 3;
@@ -12687,7 +12800,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 17";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 0;
@@ -12697,7 +12810,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 26";
 		rLen = 0;
-		rLoc = 588;
+		rLoc = 1428;
 		rType = 0;
 		vrLen = 798;
 		vrLoc = 0;
@@ -12707,7 +12820,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 15";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -12717,7 +12830,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 26";
 		rLen = 0;
-		rLoc = 588;
+		rLoc = 1428;
 		rType = 0;
 		vrLen = 797;
 		vrLoc = 0;
@@ -12727,7 +12840,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 42";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 776;
 		vrLoc = 152;
@@ -12736,7 +12849,7 @@
 		isa = PBXTextBookmark;
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		rLen = 0;
-		rLoc = 31;
+		rLoc = 48;
 		rType = 1;
 	};
 	60AA1C65101F7C11002FEC6A /* PBXTextBookmark */ = {
@@ -12744,7 +12857,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 42";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 776;
 		vrLoc = 152;
@@ -12754,7 +12867,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 42";
 		rLen = 0;
-		rLoc = 808;
+		rLoc = 1771;
 		rType = 0;
 		vrLen = 776;
 		vrLoc = 152;
@@ -12763,8 +12876,8 @@
 		isa = PBXTextBookmark;
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 11";
-		rLen = 660;
-		rLoc = 192;
+		rLen = 1623;
+		rLoc = 212;
 		rType = 0;
 		vrLen = 848;
 		vrLoc = 3;
@@ -12784,7 +12897,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 364;
+		rLoc = 1204;
 		rType = 0;
 		vrLen = 834;
 		vrLoc = 0;
@@ -12794,7 +12907,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 364;
+		rLoc = 1204;
 		rType = 0;
 		vrLen = 834;
 		vrLoc = 0;
@@ -12804,7 +12917,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 63";
 		rLen = 0;
-		rLoc = 1839;
+		rLoc = 1854;
 		rType = 0;
 		vrLen = 1059;
 		vrLoc = 1099;
@@ -12814,7 +12927,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 364;
+		rLoc = 1204;
 		rType = 0;
 		vrLen = 834;
 		vrLoc = 0;
@@ -12824,7 +12937,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 700;
+		rLoc = 679;
 		rType = 0;
 		vrLen = 1248;
 		vrLoc = 171;
@@ -12834,7 +12947,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 0;
-		rLoc = 698;
+		rLoc = 677;
 		rType = 0;
 		vrLen = 1252;
 		vrLoc = 171;
@@ -12844,7 +12957,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 8;
-		rLoc = 690;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 1252;
 		vrLoc = 171;
@@ -12853,8 +12966,8 @@
 		isa = PBXTextBookmark;
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
-		rLen = 35;
-		rLoc = 272;
+		rLen = 49;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -12894,7 +13007,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 8;
-		rLoc = 690;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 1252;
 		vrLoc = 171;
@@ -12913,8 +13026,8 @@
 		isa = PBXTextBookmark;
 		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
 		name = "MCStrengthView.h: 17";
-		rLen = 35;
-		rLoc = 272;
+		rLen = 49;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -12964,7 +13077,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 15";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -12984,7 +13097,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 15";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -12994,7 +13107,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 18";
 		rLen = 0;
-		rLoc = 368;
+		rLoc = 1208;
 		rType = 0;
 		vrLen = 836;
 		vrLoc = 0;
@@ -13004,7 +13117,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 38";
 		rLen = 0;
-		rLoc = 781;
+		rLoc = 1712;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 0;
@@ -13014,7 +13127,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 38";
 		rLen = 0;
-		rLoc = 781;
+		rLoc = 1712;
 		rType = 0;
 		vrLen = 847;
 		vrLoc = 0;
@@ -13024,7 +13137,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 38";
 		rLen = 0;
-		rLoc = 781;
+		rLoc = 1712;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 0;
@@ -13032,8 +13145,8 @@
 	60AA1C96101F84CD002FEC6A /* Blends.plist */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1025, 3066}}";
-			sepNavSelRange = "{1800, 0}";
-			sepNavVisRect = "{{0, 912}, {1025, 600}}";
+			sepNavSelRange = "{165, 4}";
+			sepNavVisRect = "{{0, 11}, {1025, 577}}";
 		};
 	};
 	60AA1C99101F858D002FEC6A /* PBXTextBookmark */ = {
@@ -13051,7 +13164,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 346;
+		rLoc = 336;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 0;
@@ -13065,7 +13178,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 16";
 		rLen = 0;
-		rLoc = 346;
+		rLoc = 336;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 0;
@@ -13089,7 +13202,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 15";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -13099,7 +13212,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 8;
-		rLoc = 690;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 1108;
 		vrLoc = 1057;
@@ -13117,7 +13230,7 @@
 		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
 		name = "Blends.plist: 164";
 		rLen = 0;
-		rLoc = 3723;
+		rLoc = 272;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 2501;
@@ -13127,7 +13240,7 @@
 		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
 		name = "MCPickerViewController.h: 15";
 		rLen = 0;
-		rLoc = 307;
+		rLoc = 314;
 		rType = 0;
 		vrLen = 332;
 		vrLoc = 0;
@@ -13137,7 +13250,7 @@
 		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
 		name = "MCPickerView.m: 27";
 		rLen = 8;
-		rLoc = 690;
+		rLoc = 669;
 		rType = 0;
 		vrLen = 1108;
 		vrLoc = 1057;
@@ -13147,7 +13260,7 @@
 		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
 		name = "Blends.plist: 164";
 		rLen = 0;
-		rLoc = 3723;
+		rLoc = 272;
 		rType = 0;
 		vrLen = 852;
 		vrLoc = 2501;
@@ -13165,10 +13278,1157 @@
 		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
 		name = "Blends.plist: 85";
 		rLen = 0;
-		rLoc = 1800;
+		rLoc = 272;
 		rType = 0;
 		vrLen = 829;
 		vrLoc = 1431;
+	};
+	60AA1CAA101F8963002FEC6A /* MCBlend.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
+			sepNavSelRange = "{470, 0}";
+			sepNavVisRange = "{0, 477}";
+		};
+	};
+	60AA1CAB101F8963002FEC6A /* MCBlend.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 577}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 275}";
+		};
+	};
+	60AA1CAF101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		name = "Blends.plist: 85";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 1431;
+	};
+	60AA1CB0101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 6";
+		rLen = 59;
+		rLoc = 82;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	60AA1CB1101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1CB2101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1CB3101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1CB4101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 16";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 0;
+	};
+	60AA1CB5101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		name = "Blends.plist: 85";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 1431;
+	};
+	60AA1CB6101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 16";
+		rLen = 0;
+		rLoc = 476;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	60AA1CB7101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 9";
+		rLen = 23;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	60AA1CB8101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	60AA1CB9101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 6";
+		rLen = 59;
+		rLoc = 82;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	60AA1CBA101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 6";
+		rLen = 0;
+		rLoc = 136;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	60AA1CBB101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 9";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 192;
+		vrLoc = 0;
+	};
+	60AA1CBC101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1CBD101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 13";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 266;
+		vrLoc = 0;
+	};
+	60AA1CBE101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1CBF101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 9;
+		rLoc = 217;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	60AA1CC0101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1CC1101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1CC2101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1CC3101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1CC4101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 15";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	60AA1CC5101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 16";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 0;
+	};
+	60AA1CC6101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1CC7101F8A8E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 19";
+		rLen = 0;
+		rLoc = 1204;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 0;
+	};
+	60AA1CDC101F8BB6002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		name = dict;
+		rLen = 4;
+		rLoc = 165;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	60AA1CDD101F8BB6002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 21";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 937;
+		vrLoc = 0;
+	};
+	60AA1CDE101F8BB6002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 21";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 937;
+		vrLoc = 0;
+	};
+	60AA1CDF101F8BB6002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		name = dict;
+		rLen = 4;
+		rLoc = 165;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	60AA1CE0101F8BB6002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 20";
+		rLen = 0;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 0;
+	};
+	60AA1CE6101F8C77002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1CE7101F8C77002FEC6A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Jelle/Documents/iPhone Development/SevenAm/Blends.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	60AA1CE8101F8C77002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 22";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 0;
+	};
+	60AA1CE9101F8C77002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 21";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 0;
+	};
+	60AA1CEA101F8C77002FEC6A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Jelle/Documents/iPhone Development/SevenAm/Blends.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	60AA1CEB101F8C77002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1CEC101F8C77002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 22";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 0;
+	};
+	60AA1CED101F8C77002FEC6A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Jelle/Documents/iPhone Development/SevenAm/Blends.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	60AA1CEE101F8C77002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 22";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 0;
+	};
+	60AA1CF0101F8C90002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 20";
+		rLen = 12;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 1131;
+		vrLoc = 0;
+	};
+	60AA1CF2101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		name = "Blends.plist: 31";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 0;
+	};
+	60AA1CF3101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1CF4101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 29";
+		rLen = 0;
+		rLoc = 1094;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 0;
+	};
+	60AA1CF5101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 28";
+		rLen = 0;
+		rLoc = 1019;
+		rType = 0;
+		vrLen = 1248;
+		vrLoc = 0;
+	};
+	60AA1CF6101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 29";
+		rLen = 0;
+		rLoc = 1094;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 0;
+	};
+	60AA1CF7101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1C96101F84CD002FEC6A /* Blends.plist */;
+		name = "Blends.plist: 31";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 0;
+	};
+	60AA1CF8101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 29";
+		rLen = 0;
+		rLoc = 1094;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 0;
+	};
+	60AA1CF9101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1CFA101F8D9A002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 32";
+		rLen = 0;
+		rLoc = 1197;
+		rType = 0;
+		vrLen = 1367;
+		vrLoc = 0;
+	};
+	60AA1CFE101F8DA6002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 32";
+		rLen = 0;
+		rLoc = 1197;
+		rType = 0;
+		vrLen = 1316;
+		vrLoc = 283;
+	};
+	60AA1D00101F8DBF002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9A6F101CD1CD00F6F6CA /* MCNameView.m */;
+		name = "MCNameView.m: 11";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 80;
+	};
+	60AA1D03101F8DF3002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 28";
+		rLen = 0;
+		rLoc = 903;
+		rType = 0;
+		vrLen = 1350;
+		vrLoc = 337;
+	};
+	60AA1D06101F8E14002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 31";
+		rLen = 0;
+		rLoc = 1167;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 251;
+	};
+	60AA1D0A101F8E1F002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 31";
+		rLen = 0;
+		rLoc = 1167;
+		rType = 0;
+		vrLen = 1345;
+		vrLoc = 357;
+	};
+	60AA1D0E101F8E48002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 31";
+		rLen = 0;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 1369;
+		vrLoc = 251;
+	};
+	60AA1D12101F8E4F002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 31";
+		rLen = 0;
+		rLoc = 1115;
+		rType = 0;
+		vrLen = 1400;
+		vrLoc = 284;
+	};
+	60AA1D19101F8EC7002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 57";
+		rLen = 0;
+		rLoc = 1771;
+		rType = 0;
+		vrLen = 1494;
+		vrLoc = 284;
+	};
+	60AA1D1B101F8ECB002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 57";
+		rLen = 0;
+		rLoc = 1771;
+		rType = 0;
+		vrLen = 1494;
+		vrLoc = 284;
+	};
+	60AA1D1C101F8EE0002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 57";
+		rLen = 0;
+		rLoc = 1771;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 589;
+	};
+	60AA1D1E101F8EFC002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9A6F101CD1CD00F6F6CA /* MCNameView.m */;
+		name = "MCNameView.m: 11";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 80;
+	};
+	60AA1D22101F8F0E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 57";
+		rLen = 0;
+		rLoc = 1742;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 589;
+	};
+	60AA1D27101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 57";
+		rLen = 0;
+		rLoc = 1742;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 589;
+	};
+	60AA1D28101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 31";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	60AA1D29101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 14";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	60AA1D2A101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 57";
+		rLen = 0;
+		rLoc = 1742;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 589;
+	};
+	60AA1D2B101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 27";
+		rLen = 8;
+		rLoc = 669;
+		rType = 0;
+		vrLen = 1103;
+		vrLoc = 1057;
+	};
+	60AA1D2C101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 31";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	60AA1D2D101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 14";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	60AA1D2E101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 31";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	60AA1D2F101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 14";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	60AA1D30101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 31";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	60AA1D31101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 14";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	60AA1D32101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 31";
+		rLen = 0;
+		rLoc = 560;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	60AA1D33101F8FB4002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 63";
+		rLen = 5;
+		rLoc = 1894;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 791;
+	};
+	60AA1D3C101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
+		name = "MCStrengthView.h: 12";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	60AA1D3D101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */;
+		name = "MCStrengthView.m: 33";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 3;
+	};
+	60AA1D3E101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C4DC101C9D0B001C8A79 /* MCSizeView.h */;
+		name = "MCSizeView.h: 22";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	60AA1D3F101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9A6E101CD1CD00F6F6CA /* MCNameView.h */;
+		name = "MCNameView.h: 14";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	60AA1D40101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9AC6101CD68C00F6F6CA /* MCBlendView.h */;
+		name = "MCBlendView.h: 12";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	60AA1D41101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1D42101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 29";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 0;
+	};
+	60AA1D43101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1D44101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9AC7101CD68C00F6F6CA /* MCBlendView.m */;
+		name = "MCBlendView.m: 19";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 0;
+	};
+	60AA1D45101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1D46101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 34";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 0;
+	};
+	60AA1D47101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 63";
+		rLen = 5;
+		rLoc = 1894;
+		rType = 0;
+		vrLen = 1217;
+		vrLoc = 791;
+	};
+	60AA1D48101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
+		name = "MCStrengthView.h: 17";
+		rLen = 49;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	60AA1D49101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */;
+		name = "MCStrengthView.m: 33";
+		rLen = 8;
+		rLoc = 776;
+		rType = 0;
+		vrLen = 926;
+		vrLoc = 0;
+	};
+	60AA1D4A101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
+		name = "MCStrengthView.h: 12";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	60AA1D4B101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */;
+		name = "MCStrengthView.m: 33";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 3;
+	};
+	60AA1D4C101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40B101C98C3001C8A79 /* MCStrengthView.h */;
+		name = "MCStrengthView.h: 12";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	60AA1D4D101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C40C101C98C3001C8A79 /* MCStrengthView.m */;
+		name = "MCStrengthView.m: 33";
+		rLen = 0;
+		rLoc = 773;
+		rType = 0;
+		vrLen = 953;
+		vrLoc = 3;
+	};
+	60AA1D4E101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6028C4DC101C9D0B001C8A79 /* MCSizeView.h */;
+		name = "MCSizeView.h: 22";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	60AA1D4F101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9A6E101CD1CD00F6F6CA /* MCNameView.h */;
+		name = "MCNameView.h: 14";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	60AA1D50101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9AC6101CD68C00F6F6CA /* MCBlendView.h */;
+		name = "MCBlendView.h: 12";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 274;
+		vrLoc = 0;
+	};
+	60AA1D51101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 63";
+		rLen = 0;
+		rLoc = 1893;
+		rType = 0;
+		vrLen = 1302;
+		vrLoc = 714;
+	};
+	60AA1D52101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1D53101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAA101F8963002FEC6A /* MCBlend.h */;
+		name = "MCBlend.h: 21";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	60AA1D54101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1D55101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 34";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 0;
+	};
+	60AA1D56101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B4101B8D6D006A74CD /* MCPickerView.h */;
+		name = "MCPickerView.h: 29";
+		rLen = 0;
+		rLoc = 533;
+		rType = 0;
+		vrLen = 567;
+		vrLoc = 0;
+	};
+	60AA1D57101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1D58101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1D59101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9AC7101CD68C00F6F6CA /* MCBlendView.m */;
+		name = "MCBlendView.m: 19";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 701;
+		vrLoc = 0;
+	};
+	60AA1D5A101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 60AA1CAB101F8963002FEC6A /* MCBlend.m */;
+		name = "MCBlend.m: 14";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	60AA1D5B101F906E002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 64";
+		rLen = 0;
+		rLoc = 1931;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 714;
+	};
+	60AA1D61101F90A1002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 64";
+		rLen = 0;
+		rLoc = 1931;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 714;
+	};
+	60AA1D62101F90A2002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9A6F101CD1CD00F6F6CA /* MCNameView.m */;
+		name = "MCNameView.m: 20";
+		rLen = 0;
+		rLoc = 561;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 0;
+	};
+	60AA1D63101F90A2002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1D64101F90A2002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */;
+		name = "MCPickerView.m: 64";
+		rLen = 0;
+		rLoc = 1931;
+		rType = 0;
+		vrLen = 1334;
+		vrLoc = 714;
+	};
+	60AA1D65101F90A2002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 608B9A6F101CD1CD00F6F6CA /* MCNameView.m */;
+		name = "MCNameView.m: 20";
+		rLen = 0;
+		rLoc = 561;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 0;
+	};
+	60AA1D66101F90A2002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CB101B8DBF006A74CD /* MCPickerViewController.h */;
+		name = "MCPickerViewController.h: 14";
+		rLen = 14;
+		rLoc = 289;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	60AA1D67101F90A2002FEC6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
+		name = "MCPickerViewController.m: 59";
+		rLen = 0;
+		rLoc = 1802;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 515;
 	};
 	60F618FC101B8FE9008CD2D6 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -13195,7 +14455,7 @@
 		fRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */;
 		name = "MCPickerViewController.m: 9";
 		rLen = 0;
-		rLoc = 190;
+		rLoc = 210;
 		rType = 0;
 		vrLen = 444;
 		vrLoc = 0;

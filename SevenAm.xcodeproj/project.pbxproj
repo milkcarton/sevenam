@@ -22,7 +22,7 @@
 		608B9C59101CE31200F6F6CA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 608B9C58101CE31200F6F6CA /* QuartzCore.framework */; };
 		60AA1BAE101F74D5002FEC6A /* arpeggio.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9A101F74D5002FEC6A /* arpeggio.png */; };
 		60AA1BAF101F74D5002FEC6A /* blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9B101F74D5002FEC6A /* blank.png */; };
-		60AA1BB0101F74D5002FEC6A /* cappriccio.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9C101F74D5002FEC6A /* cappriccio.png */; };
+		60AA1BB0101F74D5002FEC6A /* capriccio.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9C101F74D5002FEC6A /* capriccio.png */; };
 		60AA1BB1101F74D5002FEC6A /* cosi.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9D101F74D5002FEC6A /* cosi.png */; };
 		60AA1BB2101F74D5002FEC6A /* cup_cappuccino.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9E101F74D5002FEC6A /* cup_cappuccino.png */; };
 		60AA1BB3101F74D5002FEC6A /* cup_espresso.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9F101F74D5002FEC6A /* cup_espresso.png */; };
@@ -69,7 +69,7 @@
 		608B9C58101CE31200F6F6CA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		60AA1B9A101F74D5002FEC6A /* arpeggio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arpeggio.png; path = Images/arpeggio.png; sourceTree = "<group>"; };
 		60AA1B9B101F74D5002FEC6A /* blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blank.png; path = Images/blank.png; sourceTree = "<group>"; };
-		60AA1B9C101F74D5002FEC6A /* cappriccio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cappriccio.png; path = Images/cappriccio.png; sourceTree = "<group>"; };
+		60AA1B9C101F74D5002FEC6A /* capriccio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = capriccio.png; path = Images/capriccio.png; sourceTree = "<group>"; };
 		60AA1B9D101F74D5002FEC6A /* cosi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cosi.png; path = Images/cosi.png; sourceTree = "<group>"; };
 		60AA1B9E101F74D5002FEC6A /* cup_cappuccino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cup_cappuccino.png; path = Images/cup_cappuccino.png; sourceTree = "<group>"; };
 		60AA1B9F101F74D5002FEC6A /* cup_espresso.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cup_espresso.png; path = Images/cup_espresso.png; sourceTree = "<group>"; };
@@ -175,7 +175,7 @@
 			children = (
 				60AA1B9A101F74D5002FEC6A /* arpeggio.png */,
 				60AA1B9B101F74D5002FEC6A /* blank.png */,
-				60AA1B9C101F74D5002FEC6A /* cappriccio.png */,
+				60AA1B9C101F74D5002FEC6A /* capriccio.png */,
 				60AA1B9D101F74D5002FEC6A /* cosi.png */,
 				60AA1B9E101F74D5002FEC6A /* cup_cappuccino.png */,
 				60AA1B9F101F74D5002FEC6A /* cup_espresso.png */,
@@ -278,7 +278,7 @@
 				6028C568101CA0E1001C8A79 /* ristretto.png in Resources */,
 				60AA1BAE101F74D5002FEC6A /* arpeggio.png in Resources */,
 				60AA1BAF101F74D5002FEC6A /* blank.png in Resources */,
-				60AA1BB0101F74D5002FEC6A /* cappriccio.png in Resources */,
+				60AA1BB0101F74D5002FEC6A /* capriccio.png in Resources */,
 				60AA1BB1101F74D5002FEC6A /* cosi.png in Resources */,
 				60AA1BB2101F74D5002FEC6A /* cup_cappuccino.png in Resources */,
 				60AA1BB3101F74D5002FEC6A /* cup_espresso.png in Resources */,
