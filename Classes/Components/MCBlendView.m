@@ -16,7 +16,7 @@
 - (id)initWithFrame:(CGRect)rectangle {
 	if (self = [super initWithFrame:rectangle]) {
 		imageView = [[UIImageView alloc] initWithFrame:CGRectMake(85, 50, 150, 150)];
-		imageView.image = [UIImage imageNamed:@"ristretto.png"];
+		imageView.image = [UIImage imageNamed:@"blank.png"];
 		[self addSubview:imageView];
 	}
 	return self;

@@ -24,22 +24,22 @@
 	int addToX = 75;
 	int y = 17.5;
 	
-	UIImage *ristrettoImage = [UIImage imageNamed:@"ristretto.png"];
+	UIImage *ristrettoImage = [UIImage imageNamed:@"cup_ristretto.png"];
 	[ristrettoImage drawInRect:CGRectMake(x, y, size, size)];
 	
 	x += addToX;
 	
-	UIImage *espressoImage = [UIImage imageNamed:@"espresso.png"];
+	UIImage *espressoImage = [UIImage imageNamed:@"cup_espresso.png"];
 	[espressoImage drawInRect:CGRectMake(x, y, size, size)];
 	
 	x += addToX;
 	
-	UIImage *lungoImage = [UIImage imageNamed:@"lungo.png"];
+	UIImage *lungoImage = [UIImage imageNamed:@"cup_lungo.png"];
 	[lungoImage drawInRect:CGRectMake(x, y, size, size)];
 	
 	x += addToX;
 	
-	UIImage *cappechinoImage = [UIImage imageNamed:@"cappuccino.png"];
+	UIImage *cappechinoImage = [UIImage imageNamed:@"cup_cappuccino.png"];
 	[cappechinoImage drawInRect:CGRectMake(x, y, size, size)];
 }
 
@@ -47,6 +47,7 @@
 
 - (void)replaceArrayWithArray:(NSArray *)array {
 	sizeTypes = [NSArray arrayWithArray:array];
+	[self setNeedsDisplay];
 }
 
 @end

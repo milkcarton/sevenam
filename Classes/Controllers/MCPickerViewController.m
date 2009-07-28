@@ -13,6 +13,9 @@
 #pragma mark Overriden methods
 
 - (void)loadView {
+	blends = [NSArray arrayWithObjects:@"Piepje", @"Paapje", nil];
+	[blends retain];
+	
 	[super loadView];
 	
 	pickerView = [[MCPickerView alloc] initWithFrame:[[UIScreen mainScreen] applicationFrame]];
@@ -31,6 +34,8 @@
 - (void)refresh {
 	
 	NSLog(@"random number: %d", (random() % 10) + 1);
+	
+	NSLog(@"count: %i", [blends count]);
 	
 	[pickerView flipView];
 }

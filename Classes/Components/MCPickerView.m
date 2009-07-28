@@ -24,7 +24,7 @@
 		
 		nameView = [[MCNameView alloc] initWithFrame:CGRectMake(0, 210, 320, 90)];
 		nameView.backgroundColor = [UIColor redColor];
-		nameView.name = @"roma";
+		[nameView setName:@"espresso"];
 		[self addSubview:nameView];
 		
 		sizeView = [[MCSizeView alloc] initWithFrame:CGRectMake(0, 300, 320, 90)];
@@ -59,8 +59,8 @@
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationDuration:1.0];
 	
-	[blendView setName:@"roma"];
-	nameView.name = @"roma";
+	[blendView setName:@"cosi"];
+	[nameView setName:@"roma"];
 	[sizeView replaceArrayWithArray:sizeTypes];
 	strengthView.strength = strength;
 	

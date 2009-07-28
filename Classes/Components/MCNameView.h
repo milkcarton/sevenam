@@ -12,6 +12,6 @@
 	NSString *name;
 }
 
-@property (retain, readwrite) NSString *name;
+- (void)setName:(NSString *)myName;
 
 @end
