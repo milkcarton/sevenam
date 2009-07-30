@@ -17,6 +17,9 @@
 		6038829A101B8BFD006A74CD /* MCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 60388299101B8BFD006A74CD /* MCAppDelegate.m */; };
 		603882B6101B8D6D006A74CD /* MCPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 603882B5101B8D6D006A74CD /* MCPickerView.m */; };
 		603882CC101B8DBF006A74CD /* MCPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 603882CA101B8DBF006A74CD /* MCPickerViewController.m */; };
+		605920DB1022292A004BB7D5 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 605920DA1022292A004BB7D5 /* Default.png */; };
+		6059214B10222D56004BB7D5 /* MCAvailableBlendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6059214A10222D56004BB7D5 /* MCAvailableBlendsViewController.m */; };
+		6059224B102234F9004BB7D5 /* MCBlendController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6059224A102234F9004BB7D5 /* MCBlendController.m */; };
 		608B9A70101CD1CD00F6F6CA /* MCNameView.m in Sources */ = {isa = PBXBuildFile; fileRef = 608B9A6F101CD1CD00F6F6CA /* MCNameView.m */; };
 		608B9AC8101CD68C00F6F6CA /* MCBlendView.m in Sources */ = {isa = PBXBuildFile; fileRef = 608B9AC7101CD68C00F6F6CA /* MCBlendView.m */; };
 		608B9C59101CE31200F6F6CA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 608B9C58101CE31200F6F6CA /* QuartzCore.framework */; };
@@ -28,7 +31,7 @@
 		60AA1BB3101F74D5002FEC6A /* cup_espresso.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1B9F101F74D5002FEC6A /* cup_espresso.png */; };
 		60AA1BB4101F74D5002FEC6A /* cup_lungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA0101F74D5002FEC6A /* cup_lungo.png */; };
 		60AA1BB5101F74D5002FEC6A /* cup_ristretto.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA1101F74D5002FEC6A /* cup_ristretto.png */; };
-		60AA1BB6101F74D5002FEC6A /* decafeinato.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA2101F74D5002FEC6A /* decafeinato.png */; };
+		60AA1BB6101F74D5002FEC6A /* decaffeinato.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA2101F74D5002FEC6A /* decaffeinato.png */; };
 		60AA1BB7101F74D5002FEC6A /* decaffeinatointenso.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA3101F74D5002FEC6A /* decaffeinatointenso.png */; };
 		60AA1BB8101F74D5002FEC6A /* decaffeinatolungo.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA4101F74D5002FEC6A /* decaffeinatolungo.png */; };
 		60AA1BB9101F74D5002FEC6A /* dulsao.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AA1BA5101F74D5002FEC6A /* dulsao.png */; };
@@ -62,6 +65,11 @@
 		603882B5101B8D6D006A74CD /* MCPickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCPickerView.m; path = Components/MCPickerView.m; sourceTree = "<group>"; };
 		603882CA101B8DBF006A74CD /* MCPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCPickerViewController.m; path = Controllers/MCPickerViewController.m; sourceTree = "<group>"; };
 		603882CB101B8DBF006A74CD /* MCPickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCPickerViewController.h; path = Controllers/MCPickerViewController.h; sourceTree = "<group>"; };
+		605920DA1022292A004BB7D5 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		6059214910222D56004BB7D5 /* MCAvailableBlendsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCAvailableBlendsViewController.h; path = Controllers/MCAvailableBlendsViewController.h; sourceTree = "<group>"; };
+		6059214A10222D56004BB7D5 /* MCAvailableBlendsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCAvailableBlendsViewController.m; path = Controllers/MCAvailableBlendsViewController.m; sourceTree = "<group>"; };
+		60592249102234F9004BB7D5 /* MCBlendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCBlendController.h; path = Controllers/MCBlendController.h; sourceTree = "<group>"; };
+		6059224A102234F9004BB7D5 /* MCBlendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCBlendController.m; path = Controllers/MCBlendController.m; sourceTree = "<group>"; };
 		608B9A6E101CD1CD00F6F6CA /* MCNameView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCNameView.h; path = Components/MCNameView.h; sourceTree = "<group>"; };
 		608B9A6F101CD1CD00F6F6CA /* MCNameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCNameView.m; path = Components/MCNameView.m; sourceTree = "<group>"; };
 		608B9AC6101CD68C00F6F6CA /* MCBlendView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCBlendView.h; path = Components/MCBlendView.h; sourceTree = "<group>"; };
@@ -75,7 +83,7 @@
 		60AA1B9F101F74D5002FEC6A /* cup_espresso.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cup_espresso.png; path = Images/cup_espresso.png; sourceTree = "<group>"; };
 		60AA1BA0101F74D5002FEC6A /* cup_lungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cup_lungo.png; path = Images/cup_lungo.png; sourceTree = "<group>"; };
 		60AA1BA1101F74D5002FEC6A /* cup_ristretto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cup_ristretto.png; path = Images/cup_ristretto.png; sourceTree = "<group>"; };
-		60AA1BA2101F74D5002FEC6A /* decafeinato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decafeinato.png; path = Images/decafeinato.png; sourceTree = "<group>"; };
+		60AA1BA2101F74D5002FEC6A /* decaffeinato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decaffeinato.png; path = Images/decaffeinato.png; sourceTree = "<group>"; };
 		60AA1BA3101F74D5002FEC6A /* decaffeinatointenso.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decaffeinatointenso.png; path = Images/decaffeinatointenso.png; sourceTree = "<group>"; };
 		60AA1BA4101F74D5002FEC6A /* decaffeinatolungo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decaffeinatolungo.png; path = Images/decaffeinatolungo.png; sourceTree = "<group>"; };
 		60AA1BA5101F74D5002FEC6A /* dulsao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dulsao.png; path = Images/dulsao.png; sourceTree = "<group>"; };
@@ -155,6 +163,7 @@
 				60AA1C96101F84CD002FEC6A /* Blends.plist */,
 				6028C4F5101C9E5E001C8A79 /* Images */,
 				8D1107310486CEB800E47090 /* SevenAm-Info.plist */,
+				605920DA1022292A004BB7D5 /* Default.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -181,7 +190,7 @@
 				60AA1B9F101F74D5002FEC6A /* cup_espresso.png */,
 				60AA1BA0101F74D5002FEC6A /* cup_lungo.png */,
 				60AA1BA1101F74D5002FEC6A /* cup_ristretto.png */,
-				60AA1BA2101F74D5002FEC6A /* decafeinato.png */,
+				60AA1BA2101F74D5002FEC6A /* decaffeinato.png */,
 				60AA1BA3101F74D5002FEC6A /* decaffeinatointenso.png */,
 				60AA1BA4101F74D5002FEC6A /* decaffeinatolungo.png */,
 				60AA1BA5101F74D5002FEC6A /* dulsao.png */,
@@ -201,8 +210,12 @@
 		6038829B101B8C7A006A74CD /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				60592249102234F9004BB7D5 /* MCBlendController.h */,
+				6059224A102234F9004BB7D5 /* MCBlendController.m */,
 				603882CA101B8DBF006A74CD /* MCPickerViewController.m */,
 				603882CB101B8DBF006A74CD /* MCPickerViewController.h */,
+				6059214910222D56004BB7D5 /* MCAvailableBlendsViewController.h */,
+				6059214A10222D56004BB7D5 /* MCAvailableBlendsViewController.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -284,7 +297,7 @@
 				60AA1BB3101F74D5002FEC6A /* cup_espresso.png in Resources */,
 				60AA1BB4101F74D5002FEC6A /* cup_lungo.png in Resources */,
 				60AA1BB5101F74D5002FEC6A /* cup_ristretto.png in Resources */,
-				60AA1BB6101F74D5002FEC6A /* decafeinato.png in Resources */,
+				60AA1BB6101F74D5002FEC6A /* decaffeinato.png in Resources */,
 				60AA1BB7101F74D5002FEC6A /* decaffeinatointenso.png in Resources */,
 				60AA1BB8101F74D5002FEC6A /* decaffeinatolungo.png in Resources */,
 				60AA1BB9101F74D5002FEC6A /* dulsao.png in Resources */,
@@ -297,6 +310,7 @@
 				60AA1BC0101F74D5002FEC6A /* vivaltolungo.png in Resources */,
 				60AA1BC1101F74D5002FEC6A /* volluto.png in Resources */,
 				60AA1C97101F84CD002FEC6A /* Blends.plist in Resources */,
+				605920DB1022292A004BB7D5 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,6 +330,8 @@
 				608B9A70101CD1CD00F6F6CA /* MCNameView.m in Sources */,
 				608B9AC8101CD68C00F6F6CA /* MCBlendView.m in Sources */,
 				60AA1CAC101F8963002FEC6A /* MCBlend.m in Sources */,
+				6059214B10222D56004BB7D5 /* MCAvailableBlendsViewController.m in Sources */,
+				6059224B102234F9004BB7D5 /* MCBlendController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
