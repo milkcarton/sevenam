@@ -52,25 +52,32 @@
 	[tableView deselectRowAtIndexPath:indexPath animated:YES];
 	
 	// update the plist
+	MCBlend *blend = (MCBlend *) [blends objectAtIndex:indexPath.row];
+	[blendController selectBlend:blend];
+	blends = [blendController allBlends];
 	
 	[self.navigationController popViewControllerAnimated:YES];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-	static NSString *cellIdentifier = @"LoginCell";
+	static NSString *cellIdentifier = @"BlendCell";
 	
-	UITableViewCell *loginCell = (UITableViewCell *)[tableView dequeueReusableCellWithIdentifier:cellIdentifier];
-	if (loginCell == nil) {
-		loginCell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:cellIdentifier] autorelease];
+	UITableViewCell *blendCell = (UITableViewCell *)[tableView dequeueReusableCellWithIdentifier:cellIdentifier];
+	if (blendCell == nil) {
+		blendCell = [[[UITableViewCell alloc] initWithFrame:CGRectZero reuseIdentifier:cellIdentifier] autorelease];
 	}
-	loginCell.textLabel.text = ((MCBlend *) [blends objectAtIndex:indexPath.row]).name;
+	MCBlend *blend = (MCBlend *) [blends objectAtIndex:indexPath.row];
+	blendCell.textLabel.text = blend.name;
+	blendCell.imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"patch_%@_small.png", blend.imageName]];
+	blendCell.accessoryType = blend.selected ? UITableViewCellAccessoryCheckmark : UITableViewCellAccessoryNone;
 	
-	return loginCell;
+	return blendCell;
 }
 
 #pragma mark Personal methods
 
 - (void)completeSelection {
+	[blendController refresh];
 	[self dismissModalViewControllerAnimated:YES];
 }
 

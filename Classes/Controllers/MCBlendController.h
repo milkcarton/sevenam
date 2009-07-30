@@ -7,13 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MCBlend.h"
 
 @interface MCBlendController : NSObject {
 	NSMutableArray *allBlends;
 	NSMutableArray *yourBlends;
 }
 
-- (NSArray *)allBlends;
-- (NSArray *)yourBlends;
+- (void) refresh;
+- (NSArray *) allBlends;
+- (NSArray *) yourBlends;
+
+- (void) selectBlend:(MCBlend *) blend;
+- (void) unselectBlend:(MCBlend *) blend;
+- (void) updateBlendSelection:(BOOL)selected blend:(MCBlend *)blend;
 
 @end

@@ -16,9 +16,17 @@
 
 - (id)init {
 	self = [super init];
-	
 	allBlends = [[NSMutableArray array] retain];
 	yourBlends = [[NSMutableArray array] retain];
+	[self refresh];
+	return self;
+}
+
+#pragma mark Personal methods
+
+- (void) refresh {
+	[allBlends removeAllObjects];
+	[yourBlends removeAllObjects];
 	
 	NSMutableDictionary *blendTypesArray = [NSMutableDictionary dictionaryWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"Blends" ofType:@"plist"]];
 	NSEnumerator *blendTypesEnumerator = [blendTypesArray objectEnumerator];
@@ -53,18 +61,39 @@
 			}
 		}
 	}
-	
-	return self;
 }
 
-#pragma mark Personal methods
-
-- (NSArray *)allBlends {
+- (NSArray *) allBlends {
 	return allBlends;
 }
 
-- (NSArray *)yourBlends {
+- (NSArray *) yourBlends {
 	return yourBlends;
+}
+
+- (void) selectBlend:(MCBlend *) blend {
+	[self updateBlendSelection:YES blend:blend];
+}
+
+- (void) unselectBlend:(MCBlend *) blend {
+	[self updateBlendSelection:NO blend:blend];
+}
+
+- (void) updateBlendSelection:(BOOL)selected blend:(MCBlend *)blend {
+	NSMutableDictionary *blendTypesArray = [NSMutableDictionary dictionaryWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"Blends" ofType:@"plist"]];
+	NSEnumerator *blendTypesEnumerator = [blendTypesArray objectEnumerator];
+	NSArray *blendTypes;
+	while (blendTypes = [blendTypesEnumerator nextObject]) {
+		NSEnumerator *blendsEnumerator = [blendTypes objectEnumerator];
+		NSMutableDictionary *blendsDictionary;
+		while (blendsDictionary = [blendsEnumerator nextObject]) {
+			if ([blend.imageName compare:(NSString *) [blendsDictionary objectForKey:@"Image"]] == NSOrderedSame) {
+				[blendsDictionary setObject:[NSNumber numberWithBool:selected] forKey:@"Selected"];
+				[blendTypesArray writeToFile:[[NSBundle mainBundle] pathForResource:@"Blends" ofType:@"plist"] atomically:NO];
+				return;
+			}
+		}
+	}
 }
 
 @end
