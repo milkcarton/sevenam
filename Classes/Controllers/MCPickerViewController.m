@@ -8,30 +8,24 @@
 
 #import "MCPickerViewController.h"
 #import "MCBlend.h"
+#import "MCAvailableBlendsViewController.h"
+
+static BOOL accelerationIsShaking(UIAcceleration* last, UIAcceleration* current, double threshold) {
+	double deltaX = fabs(last.x - current.x);
+	double deltaY = fabs(last.y - current.y);
+	double deltaZ = fabs(last.z - current.z);
+	return (deltaX > threshold && deltaY > threshold) || (deltaX > threshold && deltaZ > threshold) || (deltaY > threshold && deltaZ > threshold);
+}
 
 @implementation MCPickerViewController
+
+@synthesize lastAcceleration;
+@synthesize blendController;
 
 #pragma mark Overriden methods
 
 - (void)loadView {
-	blends = [NSMutableArray array];
-	[blends retain];
-	
-	NSMutableDictionary *blendTypesArray = [NSMutableDictionary dictionaryWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"Blends" ofType:@"plist"]];
-	NSEnumerator *blendTypesEnumerator = [blendTypesArray objectEnumerator];
-	NSArray *blendTypes;
-	while (blendTypes = [blendTypesEnumerator nextObject]) {
-		NSEnumerator *blendsEnumerator = [blendTypes objectEnumerator];
-		NSDictionary *blendsDictionary;
-		while (blendsDictionary = [blendsEnumerator nextObject]) {
-			MCBlend *blend = [[MCBlend alloc] init];
-			blend.name = (NSString *) [blendsDictionary objectForKey:@"Name"];
-			blend.imageName = (NSString *) [blendsDictionary objectForKey:@"Image"];
-			blend.strength = (NSNumber *) [blendsDictionary objectForKey:@"Strength"];
-			blend.types = (NSArray *) [blendsDictionary objectForKey:@"Types"];
-			[blends addObject:blend];
-		}
-	}
+	blends = [blendController yourBlends];
 	
 	[super loadView];
 	
@@ -40,24 +34,50 @@
 	[self setView:pickerView];
 }
 
+- (void)dealloc {
+	[lastAcceleration dealloc];
+	[blends dealloc];
+	[pickerView dealloc];
+	[super dealloc];
+}
+
 #pragma mark Delegate methods for MCPickerView
 
 - (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
 	[self refresh];
 }
 
+- (void)animationDidStop:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context {
+	histeresisExcited = NO;
+}
+
+#pragma mark UIAccelerometerDelegate
+
+- (void) accelerometer:(UIAccelerometer *)accelerometer didAccelerate:(UIAcceleration *)acceleration {
+	if (self.lastAcceleration) {
+		if (!histeresisExcited && accelerationIsShaking(self.lastAcceleration, acceleration, 0.7)) {
+			histeresisExcited = YES;
+			[self refresh];
+		}
+	}
+	self.lastAcceleration = acceleration;
+}
+
 #pragma mark Personal methods
 
 - (void)refresh {
-	
 	int number = (random() % [blends count]);
-	NSLog(@"random number: %d", number);
-	
 	MCBlend *blend = (MCBlend *) [blends objectAtIndex:number];
-	NSLog(@"name: %@, strength: %@", blend.name, blend.strength);
-	
 	pickerView.blend = blend;
+	
 	[pickerView flipView];
+}
+
+- (void)loadInfo {
+	MCAvailableBlendsViewController *availableBlendsController = [[[MCAvailableBlendsViewController alloc] init] autorelease];
+	availableBlendsController.blendController = blendController;
+	UINavigationController *blendsNavigationController = [[UINavigationController alloc] initWithRootViewController:availableBlendsController];
+	[self.navigationController presentModalViewController:blendsNavigationController animated:YES];
 }
 
 @end

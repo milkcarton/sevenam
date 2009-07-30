@@ -8,6 +8,7 @@
 
 #import "MCAppDelegate.h"
 #import "MCPickerViewController.h"
+#import "MCBlendController.h"
 
 @implementation MCAppDelegate
 
@@ -23,9 +24,16 @@
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
     window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 	
-	MCPickerViewController *pickerController = [[[MCPickerViewController alloc] init] autorelease];
+	MCBlendController *blendController = [[[MCBlendController alloc] init] autorelease];
 	
-    [window addSubview:pickerController.view];
+	MCPickerViewController *pickerController = [[[MCPickerViewController alloc] init] autorelease];
+	pickerController.blendController = blendController;
+	[UIAccelerometer sharedAccelerometer].delegate = pickerController;
+	
+	navigationController = [[UINavigationController alloc] initWithRootViewController:pickerController];
+	navigationController.navigationBarHidden = YES;
+	
+    [window addSubview:navigationController.view];
     [window makeKeyAndVisible];
 }
 

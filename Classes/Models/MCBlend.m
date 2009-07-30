@@ -13,6 +13,7 @@
 @synthesize name;
 @synthesize imageName;
 @synthesize strength;
+@synthesize selected;
 @synthesize types;
 
 @end

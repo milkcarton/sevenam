@@ -8,12 +8,22 @@
 
 #import <UIKit/UIKit.h>
 #import "MCPickerView.h"
+#import "MCBlendController.h"
 
-@interface MCPickerViewController : UIViewController {
+@interface MCPickerViewController : UIViewController <UIAccelerometerDelegate> {
 	MCPickerView *pickerView;
-	NSMutableArray *blends;
+	NSArray *blends;
+	
+	BOOL histeresisExcited;
+	UIAcceleration* lastAcceleration;
+	
+	MCBlendController *blendController;
 }
 
+@property(retain) UIAcceleration* lastAcceleration;
+@property(retain) MCBlendController* blendController;
+
 - (void)refresh;
+- (void)loadInfo;
 
 @end

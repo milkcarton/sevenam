@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MCBlendController.h"
 
 @interface MCAvailableBlendsViewController : UITableViewController {
-	NSMutableArray *blends;
+	NSArray *blends;
+	
+	MCBlendController *blendController;
 }
+
+@property(retain) MCBlendController* blendController;
 
 @end

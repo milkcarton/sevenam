@@ -24,29 +24,49 @@
 	int addToX = 75;
 	int y = 17.5;
 	
-	UIImage *ristrettoImage = [UIImage imageNamed:@"cup_ristretto.png"];
+	UIImage *ristrettoImage;
+	if ([sizeTypes containsObject:[NSNumber numberWithInt:MCSizeRistretto]]) {
+		ristrettoImage = [UIImage imageNamed:@"cup_ristretto_selected.png"];
+	} else {
+		ristrettoImage = [UIImage imageNamed:@"cup_ristretto.png"];
+	}
 	[ristrettoImage drawInRect:CGRectMake(x, y, size, size)];
 	
 	x += addToX;
 	
-	UIImage *espressoImage = [UIImage imageNamed:@"cup_espresso.png"];
+	UIImage *espressoImage;
+	if ([sizeTypes containsObject:[NSNumber numberWithInt:MCSizeEspresso]]) {
+		espressoImage = [UIImage imageNamed:@"cup_espresso_selected.png"];
+	} else {
+		espressoImage = [UIImage imageNamed:@"cup_espresso.png"];
+	}
 	[espressoImage drawInRect:CGRectMake(x, y, size, size)];
 	
 	x += addToX;
 	
-	UIImage *lungoImage = [UIImage imageNamed:@"cup_lungo.png"];
+	UIImage *lungoImage;
+	if ([sizeTypes containsObject:[NSNumber numberWithInt:MCSizeLungo]]) {
+		lungoImage = [UIImage imageNamed:@"cup_lungo_selected.png"];
+	} else {
+		lungoImage = [UIImage imageNamed:@"cup_lungo.png"];
+	}
 	[lungoImage drawInRect:CGRectMake(x, y, size, size)];
 	
 	x += addToX;
 	
-	UIImage *cappechinoImage = [UIImage imageNamed:@"cup_cappuccino.png"];
+	UIImage *cappechinoImage;
+	if ([sizeTypes containsObject:[NSNumber numberWithInt:MCSizeCappuccino]]) {
+		cappechinoImage = [UIImage imageNamed:@"cup_cappuccino_selected.png"];
+	} else {
+		cappechinoImage = [UIImage imageNamed:@"cup_cappuccino.png"];
+	}
 	[cappechinoImage drawInRect:CGRectMake(x, y, size, size)];
 }
 
 #pragma mark Personal methods
 
 - (void)replaceArrayWithArray:(NSArray *)array {
-	sizeTypes = [NSArray arrayWithArray:array];
+	sizeTypes = [[NSArray arrayWithArray:array] retain];
 	[self setNeedsDisplay];
 }
 

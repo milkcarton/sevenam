@@ -18,6 +18,8 @@
 
 - (void)drawRect:(CGRect)rectangle {
 	CGContextRef context = UIGraphicsGetCurrentContext();
+	CGContextSetAllowsAntialiasing(context, true);
+	CGContextSetShouldAntialias(context, true);
 	
 	int x = 20;
 	int addedToX = 14;
@@ -30,7 +32,6 @@
 		[circleColor set];
 		CGContextFillEllipseInRect(context, CGRectMake(x+2, y+2-addedToY, size-4, size-4));
 		[lineColor set];
-		NSLog(@"strengthComparater: %@ < %@", [NSNumber numberWithInt:i], strength);
 		if ([[NSNumber numberWithInt:i] compare:strength] == NSOrderedAscending) {
 			CGContextFillEllipseInRect(context, CGRectMake(x+4, y+4-addedToY, size-8, size-8));
 		}

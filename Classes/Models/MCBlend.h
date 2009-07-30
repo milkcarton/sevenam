@@ -12,12 +12,14 @@
 	NSString *name;
 	NSString *imageName;
 	NSNumber *strength;
+	BOOL selected;
 	NSArray *types;
 }
 
 @property (retain, readwrite) NSString *name;
 @property (retain, readwrite) NSString *imageName;
 @property (retain, readwrite) NSNumber *strength;
+@property (nonatomic, readwrite) BOOL selected;
 @property (retain, readwrite) NSArray *types;
 
 @end

@@ -25,7 +25,7 @@
 #pragma mark Personal methods
 
 - (void)setName:(NSString *)name {
-	imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"%@.png", name]];
+	imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"patch_%@.png", name]];
 }
 
 @end

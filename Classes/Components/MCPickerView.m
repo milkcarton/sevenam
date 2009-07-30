@@ -36,6 +36,12 @@
 		strengthView.lineColor = [UIColor whiteColor];
 		strengthView.backgroundColor = [UIColor blackColor];
 		[self addSubview:strengthView];
+		
+		UIButton *infoButton = [UIButton buttonWithType:UIButtonTypeInfoLight];
+        [infoButton setFrame:CGRectMake(20, 20, 20, 20)];
+		[infoButton addTarget:delegate action:@selector(loadInfo) forControlEvents:UIControlEventTouchUpInside];
+		[self addSubview:infoButton];
+		
 	}
 	return self;
 }
@@ -57,9 +63,10 @@
 	[UIView setAnimationTransition: UIViewAnimationTransitionFlipFromLeft forView:[self superview] cache:YES];
 	[UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
 	[UIView setAnimationDuration:1.0];
+	[UIView setAnimationDelegate:delegate];
 	
 	[blendView setName:blend.imageName];
-	[nameView setName:blend.name];
+	[nameView setName:blend.imageName];
 	[sizeView replaceArrayWithArray:blend.types];
 	strengthView.strength = blend.strength;
 	

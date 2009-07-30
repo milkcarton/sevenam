@@ -10,6 +10,7 @@
 
 @interface MCAppDelegate : NSObject <UIApplicationDelegate> {
 	UIWindow *window;
+	UINavigationController *navigationController;
 }
 
 @end
