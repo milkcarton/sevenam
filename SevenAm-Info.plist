@@ -5,13 +5,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
-	<string>SevenAm</string>
+	<string>7am</string>
 	<key>CFBundleExecutable</key>
 	<string>SevenAm</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
-	<string>be.milkcarton.SevenAm</string>
+	<string>be.milkcarton.7am</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
