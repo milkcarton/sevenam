@@ -17,7 +17,7 @@
 		drawInRect:CGRectMake(self.bounds.origin.x+20, self.bounds.origin.y+10, self.bounds.size.width-40, self.bounds.size.height-20)];
 	
 	CGContextRef context = UIGraphicsGetCurrentContext();
-	UIColor *backgroundColor = [UIColor grayColor];
+	UIColor *backgroundColor = [UIColor clearColor];
 	[backgroundColor set];
 	CGContextFillRect(context, CGRectMake(self.bounds.origin.x+20, self.bounds.origin.y+10, self.bounds.size.width-40, self.bounds.size.height-20));
 }

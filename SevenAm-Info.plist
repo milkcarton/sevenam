@@ -5,17 +5,17 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
-	<string>7am</string>
+	<string>SevenAm</string>
 	<key>CFBundleExecutable</key>
-	<string>7am</string>
+	<string>SevenAm</string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
-	<string>be.milkcarton.7am</string>
+	<string>be.milkcarton.SevenAm</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>7am</string>
+	<string>SevenAm</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
