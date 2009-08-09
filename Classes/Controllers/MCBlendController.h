@@ -14,12 +14,11 @@
 	NSMutableArray *yourBlends;
 }
 
-- (void) refresh;
-- (NSArray *) allBlends;
-- (NSArray *) yourBlends;
-
-- (void) selectBlend:(MCBlend *) blend;
-- (void) unselectBlend:(MCBlend *) blend;
-- (void) updateBlendSelection:(BOOL)selected blend:(MCBlend *)blend;
+- (void)initializeLocalFile;
+- (void)loadFromFile;
+- (NSArray *)allBlends;
+- (NSArray *)yourBlends;
+- (BOOL)containsSelectedBlends;
+- (void)writeToFile;
 
 @end

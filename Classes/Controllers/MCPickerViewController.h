@@ -15,6 +15,8 @@
 	NSArray *blends;
 	
 	BOOL histeresisExcited;
+	BOOL shakingEnabled;
+	BOOL firstScreenLoad;
 	UIAcceleration* lastAcceleration;
 	
 	MCBlendController *blendController;
@@ -24,6 +26,7 @@
 @property(retain) MCBlendController* blendController;
 
 - (void)refresh;
-- (void)loadInfo;
+- (void)loadBlendSelection;
+- (void)loadPreferences;
 
 @end

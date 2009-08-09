@@ -16,4 +16,14 @@
 @synthesize selected;
 @synthesize types;
 
+#pragma mark Overridden methods
+
+- (void)dealloc {
+	[name release];
+	[imageName release];
+	[strength release];
+	[types release];
+	[super dealloc];
+}
+
 @end

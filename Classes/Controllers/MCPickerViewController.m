@@ -25,13 +25,27 @@ static BOOL accelerationIsShaking(UIAcceleration* last, UIAcceleration* current,
 #pragma mark Overriden methods
 
 - (void)loadView {
-	blends = [blendController yourBlends];
-	
 	[super loadView];
 	
 	pickerView = [[MCPickerView alloc] initWithFrame:[[UIScreen mainScreen] applicationFrame]];
 	pickerView.delegate = self;
+	[pickerView viewsHidden:YES];
+	
+	firstScreenLoad = YES;
+	[self loadPreferences];
+	
 	[self setView:pickerView];
+}
+
+- (void)viewWillAppear:(BOOL)animated {
+	blends = [blendController yourBlends];
+}
+
+- (void)viewDidAppear:(BOOL)animated {
+	if (firstScreenLoad) {
+		[NSThread detachNewThreadSelector:@selector(postponedRefresh) toTarget:self withObject:nil];
+		firstScreenLoad = NO;
+	}
 }
 
 - (void)dealloc {
@@ -44,7 +58,10 @@ static BOOL accelerationIsShaking(UIAcceleration* last, UIAcceleration* current,
 #pragma mark Delegate methods for MCPickerView
 
 - (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
-	[self refresh];
+	if (!histeresisExcited) {
+		histeresisExcited = YES;
+		[self refresh];
+	}
 }
 
 - (void)animationDidStop:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context {
@@ -53,31 +70,45 @@ static BOOL accelerationIsShaking(UIAcceleration* last, UIAcceleration* current,
 
 #pragma mark UIAccelerometerDelegate
 
-- (void) accelerometer:(UIAccelerometer *)accelerometer didAccelerate:(UIAcceleration *)acceleration {
-	if (self.lastAcceleration) {
-		if (!histeresisExcited && accelerationIsShaking(self.lastAcceleration, acceleration, 0.7)) {
-			histeresisExcited = YES;
-			[self refresh];
+- (void)accelerometer:(UIAccelerometer *)accelerometer didAccelerate:(UIAcceleration *)acceleration { 
+	if (shakingEnabled) {
+		if (self.lastAcceleration) {
+			if (!histeresisExcited && accelerationIsShaking(self.lastAcceleration, acceleration, 0.7)) {
+				histeresisExcited = YES;
+				[self refresh];
+			}
 		}
+		self.lastAcceleration = acceleration;
 	}
-	self.lastAcceleration = acceleration;
 }
 
 #pragma mark Personal methods
 
 - (void)refresh {
-	int number = (random() % [blends count]);
+	int number = (arc4random() % [blends count]);
 	MCBlend *blend = (MCBlend *) [blends objectAtIndex:number];
 	pickerView.blend = blend;
 	
+	[pickerView viewsHidden:NO];
 	[pickerView flipView];
 }
 
-- (void)loadInfo {
+- (void)loadBlendSelection {
 	MCAvailableBlendsViewController *availableBlendsController = [[[MCAvailableBlendsViewController alloc] init] autorelease];
 	availableBlendsController.blendController = blendController;
 	UINavigationController *blendsNavigationController = [[UINavigationController alloc] initWithRootViewController:availableBlendsController];
 	[self.navigationController presentModalViewController:blendsNavigationController animated:YES];
+}
+
+- (void)postponedRefresh {
+	NSCondition *condition = [[NSCondition alloc] init];
+	[condition waitUntilDate:[NSDate dateWithTimeIntervalSinceNow:0.5]];
+	[self refresh];
+}
+
+- (void)loadPreferences {
+	NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
+	shakingEnabled = [defaults boolForKey:@"shaking"];
 }
 
 @end

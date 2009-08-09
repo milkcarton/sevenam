@@ -14,6 +14,14 @@
 @synthesize circleColor;
 @synthesize lineColor;
 
+static UIColor *inactiveColor = nil;
+
++ (void)initialize {
+	if (self == [MCStrengthView class]) {
+		inactiveColor = [[UIColor colorWithWhite:255 alpha:0.5] retain];
+	}
+}
+
 #pragma mark Overriden methods
 
 - (void)drawRect:(CGRect)rectangle {
@@ -27,18 +35,19 @@
 	int addedToY = 3;
 	int size = 10;
 	for (int i = 0; i < 10; i++) {
-		[lineColor set];
-		CGContextFillEllipseInRect(context, CGRectMake(x, y-addedToY, size, size));
-		[circleColor set];
-		CGContextFillEllipseInRect(context, CGRectMake(x+2, y+2-addedToY, size-4, size-4));
-		[lineColor set];
+		CGContextSetLineWidth(context, 2.0);
 		if ([[NSNumber numberWithInt:i] compare:strength] == NSOrderedAscending) {
+			[lineColor set];
+			CGContextStrokeEllipseInRect(context, CGRectMake(x, y-addedToY, size, size));
 			CGContextFillEllipseInRect(context, CGRectMake(x+4, y+4-addedToY, size-8, size-8));
+		} else {
+			[inactiveColor set];
+			CGContextStrokeEllipseInRect(context, CGRectMake(x, y-addedToY, size, size));
 		}
 		x += addedToX;
 		addedToX += 3;
 		addedToY += 1.9;
-		size +=3;
+		size += 3;
 	}	
 }
 

@@ -91,7 +91,7 @@
 				<string>espresso</string>
 			</array>
 			<key>Selected</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Name</key>
@@ -105,7 +105,7 @@
 				<string>espresso</string>
 			</array>
 			<key>Selected</key>
-			<false/>
+			<true/>
 		</dict>
 	</array>
 	<key>Pure Origin</key>

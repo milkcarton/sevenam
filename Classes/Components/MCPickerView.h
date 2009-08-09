@@ -13,12 +13,15 @@
 #import "MCSizeView.h"
 #import "MCStrengthView.h"
 #import "MCBlend.h"
+#import "MCBackgroundView.h"
 
 @interface MCPickerView : UIView {
+	MCBackgroundView *backgroundView;
 	MCBlendView *blendView;
 	MCNameView *nameView;
 	MCSizeView *sizeView;
 	MCStrengthView *strengthView;
+	UIButton *infoButton;
 	
 	id delegate;
 	
@@ -28,6 +31,7 @@
 @property (retain) id delegate;
 @property (retain, readwrite) MCBlend *blend;
 
+- (void)viewsHidden:(BOOL)hide;
 - (void)flipView;
 
 @end

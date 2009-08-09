@@ -10,7 +10,7 @@
 #import "MCBlendController.h"
 
 @interface MCAvailableBlendsViewController : UITableViewController {
-	NSArray *blends;
+	NSArray *blendTypes;
 	
 	MCBlendController *blendController;
 }

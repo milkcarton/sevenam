@@ -7,6 +7,7 @@
 //
 
 #import "MCSizeView.h"
+#import "MCBlend.h"
 
 @implementation MCSizeView
 
