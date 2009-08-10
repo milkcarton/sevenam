@@ -112,6 +112,7 @@
 		60AEFE031024E42600D67021 /* patch_volluto_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 60AEFDB51024E42600D67021 /* patch_volluto_small.png */; };
 		60AEFEA810259C6500D67021 /* MCBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 60AEFEA710259C6500D67021 /* MCBackgroundView.m */; };
 		60C9308210243A1700B1C55C /* MCBlendType.m in Sources */ = {isa = PBXBuildFile; fileRef = 60C9308110243A1700B1C55C /* MCBlendType.m */; };
+		F4621CFB1030935A00A05B5C /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = F4621CFA1030935A00A05B5C /* Entitlements.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -237,6 +238,7 @@
 		60C9308010243A1700B1C55C /* MCBlendType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MCBlendType.h; path = Models/MCBlendType.h; sourceTree = "<group>"; };
 		60C9308110243A1700B1C55C /* MCBlendType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MCBlendType.m; path = Models/MCBlendType.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* SevenAm-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SevenAm-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		F4621CFA1030935A00A05B5C /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -283,6 +285,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				F4621CFA1030935A00A05B5C /* Entitlements.plist */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -583,6 +586,7 @@
 				603E51121027558200612D9A /* select_button_selected.png in Resources */,
 				603E51131027558200612D9A /* select_button.png in Resources */,
 				603E51791027587C00612D9A /* header.png in Resources */,
+				F4621CFB1030935A00A05B5C /* Entitlements.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -628,7 +632,7 @@
 			};
 			name = Debug;
 		};
-		1D6058950D05DD3E006BFB54 /* Release */ = {
+		1D6058950D05DD3E006BFB54 /* Store Distribution */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -638,34 +642,62 @@
 				INFOPLIST_FILE = "SevenAm-Info.plist";
 				PRODUCT_NAME = SevenAm;
 			};
-			name = Release;
+			name = "Store Distribution";
 		};
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Simon Schoeters (Z5VKNA73HG)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "E6992673-013C-4577-ADC3-51D2B623BD2F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos3.0;
 			};
 			name = Debug;
 		};
-		C01FCF5008A954540054247B /* Release */ = {
+		C01FCF5008A954540054247B /* Store Distribution */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Simon Schoeters";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5DCCC0E0-51FA-40DB-9005-7B6BC81D8F3F";
 				SDKROOT = iphoneos3.0;
 			};
-			name = Release;
+			name = "Store Distribution";
+		};
+		F4621D0E1030954D00A05B5C /* AdHoc Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Simon Schoeters";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "08D7F1B1-C850-4ECD-BA11-DEB50010E75E";
+				SDKROOT = iphoneos3.0;
+			};
+			name = "AdHoc Distribution";
+		};
+		F4621D0F1030954D00A05B5C /* AdHoc Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SevenAm_Prefix.pch;
+				INFOPLIST_FILE = "SevenAm-Info.plist";
+				PRODUCT_NAME = SevenAm;
+			};
+			name = "AdHoc Distribution";
 		};
 /* End XCBuildConfiguration section */
 
@@ -674,19 +706,21 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug */,
-				1D6058950D05DD3E006BFB54 /* Release */,
+				1D6058950D05DD3E006BFB54 /* Store Distribution */,
+				F4621D0F1030954D00A05B5C /* AdHoc Distribution */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Store Distribution";
 		};
 		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SevenAm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,
-				C01FCF5008A954540054247B /* Release */,
+				C01FCF5008A954540054247B /* Store Distribution */,
+				F4621D0E1030954D00A05B5C /* AdHoc Distribution */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = "Store Distribution";
 		};
 /* End XCConfigurationList section */
 	};
