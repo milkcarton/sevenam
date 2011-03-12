@@ -485,7 +485,14 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SevenAm" */;
 			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -622,6 +629,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jelle Vandebeeck (DR39Q8437E)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -629,6 +637,8 @@
 				GCC_PREFIX_HEADER = SevenAm_Prefix.pch;
 				INFOPLIST_FILE = "SevenAm-Info.plist";
 				PRODUCT_NAME = SevenAm;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5F2E6C4D-6188-4CD8-8264-F810A0A3AAFF";
+				SDKROOT = iphoneos4.2;
 			};
 			name = Debug;
 		};
@@ -636,11 +646,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Jelle Vandebeeck";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = SevenAm_Prefix.pch;
 				INFOPLIST_FILE = "SevenAm-Info.plist";
 				PRODUCT_NAME = SevenAm;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3CB10E2A-33C7-41DC-96D0-1F99E31BE78E";
+				SDKROOT = iphoneos4.1;
 			};
 			name = "Store Distribution";
 		};
@@ -654,7 +667,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
-				SDKROOT = iphoneos3.0;
+				SDKROOT = iphoneos3.2;
 			};
 			name = Debug;
 		};
@@ -668,7 +681,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5DCCC0E0-51FA-40DB-9005-7B6BC81D8F3F";
-				SDKROOT = iphoneos3.0;
+				SDKROOT = iphoneos3.2;
 			};
 			name = "Store Distribution";
 		};
@@ -683,7 +696,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "08D7F1B1-C850-4ECD-BA11-DEB50010E75E";
-				SDKROOT = iphoneos3.0;
+				SDKROOT = iphoneos3.2;
 			};
 			name = "AdHoc Distribution";
 		};
